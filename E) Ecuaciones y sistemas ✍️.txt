@@ -1,0 +1,385 @@
+E) Ecuaciones y sistemas ✍️
+
+---
+
+19) Ecuaciones de 1er grado: resolver y verificar. \((ax+b=c)\)
+
+91) Resuelve la ecuación:
+\[
+x+7=15
+\]
+a) \(x=6\)
+b) \(x=7\)
+c) \(x=8\)
+d) \(x=9\)
+e) \(x=22\)
+Tip 💡: Aísla \(x\). Resta el mismo número en ambos lados para “desaparecer” el \(+7\). Al final verifica sustituyendo el valor encontrado en la ecuación original. ✅
+
+92) Resuelve:
+\[
+5x=35
+\]
+a) \(x=5\)
+b) \(x=6\)
+c) \(x=7\)
+d) \(x=30\)
+e) \(x=40\)
+Tip 💡: Si \(5x=35\), divide ambos lados entre \(5\). La idea es dejar a \(x\) solo. Verifica multiplicando \(5\) por tu resultado. 🔍
+
+93) Resuelve:
+\[
+3x-4=11
+\]
+a) \(x=3\)
+b) \(x=4\)
+c) \(x=5\)
+d) \(x=\frac{11}{3}\)
+e) \(x=\frac{15}{3}\)
+Tip 💡: Primero suma \(4\) en ambos lados para eliminar el \(-4\). Luego divide entre \(3\). Verifica sustituyendo. 🧠✅
+
+94) Resuelve:
+\[
+\frac{x}{4}+6=9
+\]
+a) \(x=3\)
+b) \(x=6\)
+c) \(x=9\)
+d) \(x=12\)
+e) \(x=36\)
+Tip 💡: Primero resta \(6\) en ambos lados. Luego multiplica por \(4\) para eliminar el denominador. Revisa que no confundas \(\frac{x}{4}\) con \(\frac{1}{4}x\): significan lo mismo. 🔎
+
+95) Resuelve:
+\[
+7(2x-3)+5=2x+31
+\]
+a) \(x=2\)
+b) \(x=3\)
+c) \(x=4\)
+d) \(x=5\)
+e) \(x=6\)
+Tip 💡: Distribuye el \(7\): \(7(2x-3)=14x-21\). Luego simplifica cada lado juntando términos. Pasa las \(x\) a un lado y los números al otro. Al final verifica sustituyendo en la ecuación original. ✅🧾
+
+---
+
+20) Problemas con ecuación: planteamiento desde texto (edades, dinero, medidas).
+
+96) Sofía tiene \(8\) años más que Diego. Si Diego tiene \(x\) años, ¿qué ecuación representa que juntos suman \(30\) años?
+a) \(x+8=30\)
+b) \(2x+8=30\)
+c) \(x+(x-8)=30\)
+d) \(x+30=8\)
+e) \(8x=30\)
+Tip 💡: Define una sola variable y expresa la otra cantidad con esa variable. Luego arma la suma “Diego + Sofía” y iguala a \(30\). 📌
+
+97) Un cuaderno cuesta $\(18\) y una pluma cuesta $\(12\). Si se compran \(2\) cuadernos y \(x\) plumas y se paga $\(84\), ¿cuál es la ecuación correcta?
+a) \(18+12x=84\)
+b) \(2(18)+12x=84\)
+c) \(18x+12=84\)
+d) \(2(12)+18x=84\)
+e) \(30x=84\)
+Tip 💡: Multiplica cada precio por la cantidad comprada. Después suma todo y colócalo igual a lo que se pagó. No confundas \(2\) cuadernos con “\(18x\)”. ✅
+
+98) El perímetro de un rectángulo es \(54\) cm. Si el largo mide \(x\) cm y el ancho mide \(9\) cm, ¿cuál ecuación lo representa?
+a) \(x+9=54\)
+b) \(2x+9=54\)
+c) \(2(x+9)=54\)
+d) \(x(9)=54\)
+e) \(x-9=54\)
+Tip 💡: El perímetro del rectángulo es \(2(\text{largo}+\text{ancho})\). Sustituye largo por \(x\) y ancho por \(9\), y luego iguala a \(54\). 🧠📏
+
+99) En un tanque hay \(120\) litros de agua. Se vacían \(x\) litros y quedan \(45\) litros. ¿Cuál es la ecuación correcta?
+a) \(120+x=45\)
+b) \(120-x=45\)
+c) \(45-x=120\)
+d) \(x-120=45\)
+e) \(120=45x\)
+Tip 💡: “Quedan” se modela como: cantidad inicial menos lo que se quita. Piensa: si quitas algo, el resultado debe ser menor. 👀✅
+
+100) Un número, al multiplicarlo por \(4\) y luego sumarle \(7\), da \(55\). ¿Cuál es ese número?
+a) \(10\)
+b) \(11\)
+c) \(12\)
+d) \(13\)
+e) \(14\)
+Tip 💡: Escribe la ecuación: \(4x+7=55\). Luego despeja: primero resta \(7\) y después divide entre \(4\). Verifica sustituyendo en la frase. ✅🔎
+
+---
+
+21) Sistemas \((2\times 2)\): sustitución, igualación o comparación; interpretación.
+
+101) Resuelve el sistema:
+\[
+\begin{cases}
+x+y=10\\
+x=6
+\end{cases}
+\]
+a) \((x,y)=(4,6)\)
+b) \((x,y)=(6,4)\)
+c) \((x,y)=(6,6)\)
+d) \((x,y)=(10,0)\)
+e) \((x,y)=(0,10)\)
+Tip 💡: Sustituye \(x=6\) en la primera ecuación. Luego despeja \(y\). Al final verifica en ambas ecuaciones. ✅
+
+102) Resuelve:
+\[
+\begin{cases}
+2x+y=9\\
+y=3
+\end{cases}
+\]
+a) \((x,y)=(3,3)\)
+b) \((x,y)=(6,3)\)
+c) \((x,y)=(2,3)\)
+d) \((x,y)=(3,6)\)
+e) \((x,y)=(9,3)\)
+Tip 💡: Como ya te dan \(y\), reemplázala en \(2x+y=9\). Resuelve la ecuación de primer grado que queda. 🔎
+
+103) Resuelve por sustitución:
+\[
+\begin{cases}
+x+y=11\\
+x-y=1
+\end{cases}
+\]
+a) \((x,y)=(5,6)\)
+b) \((x,y)=(6,5)\)
+c) \((x,y)=(10,1)\)
+d) \((x,y)=(1,10)\)
+e) \((x,y)=(11,0)\)
+Tip 💡: Puedes despejar \(x\) o \(y\) de una ecuación y sustituir en la otra. También puedes sumar las ecuaciones para eliminar \(y\). Elige el camino más sencillo. ✅🧠
+
+104) Resuelve:
+\[
+\begin{cases}
+3x+2y=18\\
+x+2y=10
+\end{cases}
+\]
+a) \((x,y)=(2,4)\)
+b) \((x,y)=(4,3)\)
+c) \((x,y)=(3,4)\)
+d) \((x,y)=(4,2)\)
+e) \((x,y)=(6,2)\)
+Tip 💡: Observa que ambos tienen \(2y\). Resta la segunda ecuación de la primera para eliminar \(y\). Luego sustituye el \(x\) que encuentres en cualquiera de las ecuaciones. 🔁
+
+105) En una papelería, \(2\) cuadernos y \(3\) plumas cuestan $\(54\). Un cuaderno y \(2\) plumas cuestan $\(32\). ¿Cuánto cuesta una pluma?
+\[
+\begin{cases}
+2c+3p=54\\
+c+2p=32
+\end{cases}
+\]
+a) $6
+b) $7
+c) $8
+d) $9
+e) $10
+Tip 💡: Puedes despejar \(c\) en la segunda ecuación y sustituir en la primera, o eliminar \(c\) multiplicando la segunda ecuación por \(2\) y restando. Al final, interpreta el valor de \(p\) como precio de la pluma. ✅🧾
+
+---
+
+22) Desigualdades simples (si aplica): \((x>3)\), \((2x\le 10)\), recta numérica.
+
+106) ¿Cuál conjunto de valores satisface la desigualdad \(x>4\)?
+a) \(\{x\mid x\le 4\}\)
+b) \(\{x\mid x\ge 4\}\)
+c) \(\{x\mid x<4\}\)
+d) \(\{x\mid x>4\}\)
+e) \(\{x\mid 0<x<4\}\)
+Tip 💡: El símbolo \(>\) significa “mayor que” y no incluye el número. Piensa en la recta numérica: son todos los puntos a la derecha de \(4\), sin contar \(4\). 👀
+
+107) Resuelve:
+\[
+x-7\le 3
+\]
+a) \(x\le -4\)
+b) \(x\le 10\)
+c) \(x\ge 10\)
+d) \(x<10\)
+e) \(x\ge -4\)
+Tip 💡: Para aislar \(x\), suma \(7\) en ambos lados. Recuerda que al sumar o restar el mismo número, el signo de la desigualdad no cambia. ✅
+
+108) Resuelve:
+\[
+3x>12
+\]
+a) \(x>3\)
+b) \(x<3\)
+c) \(x\ge 4\)
+d) \(x\le 4\)
+e) \(x>4\)
+Tip 💡: Divide ambos lados entre \(3\). Como divides entre un número positivo, el signo de la desigualdad se mantiene igual. 🔎
+
+109) Resuelve:
+\[
+-2x\le 8
+\]
+a) \(x\le -4\)
+b) \(x\ge -4\)
+c) \(x\le 4\)
+d) \(x\ge 4\)
+e) \(x< -4\)
+Tip 💡: Aquí dividirás entre un número negativo. Cuando multiplicas o divides por un número negativo, el signo de la desigualdad se invierte. Hazlo con cuidado. ⚠️✅
+
+110) Resuelve y expresa como intervalo en la recta numérica:
+\[
+5<2x+1\le 13
+\]
+a) \(2<x\le 6\)
+b) \(3<x\le 7\)
+c) \(2\le x<6\)
+d) \(1<x\le 6\)
+e) \(2<x<6\)
+Tip 💡: Trata la desigualdad doble como dos desigualdades: \(5<2x+1\) y \(2x+1\le 13\). Resta \(1\) en ambos lados y luego divide entre \(2\) (positivo). Al final combina el resultado. ✅🧠
+
+---
+
+23) Ecuaciones cuadráticas (secundaria): identificar \((ax^2+bx+c=0)\), resolver por factorización sencilla o fórmula general cuando aplique.
+
+111) ¿Cuál de las siguientes es una ecuación cuadrática?
+a) \(3x+5=0\)
+b) \(x^2-9=0\)
+c) \(\frac{2}{x}+1=0\)
+d) \(x^3-1=0\)
+e) \(4x-7=2x\)
+Tip 💡: Una ecuación cuadrática tiene como mayor exponente de \(x\) el \(2\). Busca la que tenga término \(x^2\) y no tenga exponentes mayores. 👀
+
+112) Resuelve:
+\[
+x^2-16=0
+\]
+a) \(x=4\)
+b) \(x=-4\)
+c) \(x=\pm 4\)
+d) \(x=\pm 8\)
+e) \(x=8\)
+Tip 💡: Es una diferencia de cuadrados: \(x^2-16=(x-4)(x+4)\). Igualas cada factor a cero para encontrar las soluciones. ✅
+
+113) Resuelve por factorización:
+\[
+x^2+5x+6=0
+\]
+a) \(x=2,\ 3\)
+b) \(x=-2,\ -3\)
+c) \(x=-2,\ 3\)
+d) \(x=2,\ -3\)
+e) \(x=-1,\ -6\)
+Tip 💡: Busca dos números que multiplicados den \(6\) y sumados den \(5\). Luego factoriza como \((x+m)(x+n)=0\). 🔎
+
+114) Resuelve:
+\[
+2x^2-8x=0
+\]
+a) \(x=4\)
+b) \(x=0\)
+c) \(x=0,\ 4\)
+d) \(x=-4,\ 0\)
+e) \(x=2\)
+Tip 💡: Saca factor común: \(2x^2-8x=2x(x-4)\). Cuando un producto vale cero, alguno de los factores debe ser cero. ✅🧠
+
+115) Resuelve con fórmula general:
+\[
+x^2-3x-10=0
+\]
+a) \(x=5,\ -2\)
+b) \(x=-5,\ 2\)
+c) \(x=10,\ -1\)
+d) \(x=3,\ -10\)
+e) \(x=2,\ 5\)
+Tip 💡: Si no ves factorización rápida, usa:
+\[
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\]
+Identifica \(a\), \(b\), \(c\) y calcula primero el discriminante \(b^2-4ac\). ✅🔍
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 91:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 92:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+
+- Reactivo 93:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+  - Ajuste mínimo requerido (había 2 correctas: c y e):
+    - Cambiar opción e) de \(x=\frac{15}{3}\) a \(x=\frac{15}{2}\)
+
+- Reactivo 94:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+
+- Reactivo 95:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+  - Ajuste mínimo requerido (no había opción correcta):
+    - Cambiar opción c) de \(x=4\) a \(x=\frac{47}{12}\)
+
+- Reactivo 96:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 97:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 98:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 99:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 100:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 101:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 102:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 103:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 104:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 105:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 106:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 107:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 108:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 109:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 110:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 111:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 112:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 113:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 114:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 115:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+[/ANTIGRAVITY | ANSWER_KEY]

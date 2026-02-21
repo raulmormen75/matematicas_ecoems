@@ -1,0 +1,352 @@
+D) Álgebra 🧩
+
+---
+
+14) Lenguaje algebraico: traducir texto a expresión y viceversa.
+
+66) ¿Cuál expresión representa “el triple de un número \(x\) menos 8”?
+a) \(3x+8\)
+b) \(x^3-8\)
+c) \(3(x-8)\)
+d) \(3x-8\)
+e) \(\frac{3}{x}-8\)
+Tip 💡: Identifica palabras: “triple” significa multiplicar por \(3\); “menos 8” significa restar \(8\) al final. Respeta el orden del enunciado. 👀
+
+67) ¿Cuál enunciado corresponde a la expresión \(2y+5\)?
+a) El doble de \(y\) dividido entre cinco
+b) El doble de \(y\) más cinco
+c) \(y\) más el doble de cinco
+d) La suma de \(y\) y cinco, todo al doble
+e) El doble de \(y+5\)
+Tip 💡: Lee la expresión por partes: primero \(2y\) significa “el doble de \(y\)”. Luego el \(+5\) se suma aparte. No metas el \(5\) dentro del doble si no hay paréntesis. ✅
+
+68) ¿Cuál expresión representa “la mitad de la suma de \(x\) y 12”?
+a) \(\frac{x}{2}+12\)
+b) \(\frac{x+12}{2}\)
+c) \(2(x+12)\)
+d) \(\frac{12-x}{2}\)
+e) \(x+\frac{12}{2}\)
+Tip 💡: “La mitad de” implica dividir entre \(2\). Si dice “de la suma”, primero se suma y luego se divide: usa paréntesis. 🧠
+
+69) Una entrada al cine cuesta $\(p\) pesos y una bolsa de palomitas cuesta $\(q\) pesos. ¿Cuál expresión representa el costo total de \(4\) entradas y \(2\) palomitas?
+a) \(4p+2q\)
+b) \(2p+4q\)
+c) \(6pq\)
+d) \(p^4+q^2\)
+e) \(4(p+q)\)
+Tip 💡: Multiplica cada precio por su cantidad y luego suma. No mezcles multiplicación entre \(p\) y \(q\) porque son precios distintos. 🧾
+
+70) “Un número disminuido en 7, y después multiplicado por 3, da 24”. ¿Cuál ecuación lo representa?
+a) \(x-7\cdot 3=24\)
+b) \(x-(7\cdot 3)=24\)
+c) \(3x-7=24\)
+d) \(3(x-7)=24\)
+e) \(x-3(7)=24\)
+Tip 💡: Traduce en el orden del texto: primero “disminuido en 7” es \((x-7)\). Después “multiplicado por 3” es \(3(x-7)\). Al final “da 24” significa \(=24\). ✅
+
+---
+
+15) Expresiones algebraicas: términos, coeficientes, semejantes, reducir.
+
+71) En la expresión \(7x - 3 + 2x\), ¿cuáles son los términos semejantes?
+a) \(7x\) y \(-3\)
+b) \(7x\) y \(2x\)
+c) \(-3\) y \(2x\)
+d) \(7x\), \(-3\) y \(2x\) (todos)
+e) No hay términos semejantes
+Tip 💡: Los términos semejantes tienen la misma parte literal (misma letra y mismo exponente). Los números solos son semejantes entre sí. 👀
+
+72) ¿Cuál es el coeficiente de \(y\) en la expresión \(-9y + 4\)?
+a) \(9\)
+b) \(-9\)
+c) \(4\)
+d) \(-4\)
+e) \(y\)
+Tip 💡: El coeficiente es el número que multiplica a la letra. Conserva el signo. Si no se ve multiplicación, se entiende que está. ✅
+
+73) Reduce:
+\[
+5a - 2a + 7 - 3
+\]
+a) \(3a + 10\)
+b) \(7a + 2\)
+c) \(3a + 4\)
+d) \(7a + 4\)
+e) \(a + 4\)
+Tip 💡: Junta términos semejantes: primero los que tienen \(a\) y luego los números. Opera cada grupo por separado y al final une el resultado. 🧠
+
+74) Simplifica:
+\[
+4x + 3y - 2x + 5y - 7
+\]
+a) \(2x + 8y - 7\)
+b) \(6x + 8y - 7\)
+c) \(2x + 2y + 7\)
+d) \(2x + 8y + 7\)
+e) \(6x + 2y - 7\)
+Tip 💡: Suma y resta solo entre semejantes: \(x\) con \(x\), \(y\) con \(y\), y constantes con constantes. No mezcles letras diferentes. 🔎
+
+75) Reduce completamente:
+\[
+(3m - 2n + 5) + (4n - m - 9) - (2m + n - 1)
+\]
+a) \(4m + n - 3\)
+b) \(0m + n - 3\)
+c) \(m + n - 3\)
+d) \(m + 3n - 3\)
+e) \(-m + n + 15\)
+Tip 💡: Quita paréntesis con cuidado: si hay un signo “menos” antes del paréntesis, cambia el signo de todos los términos dentro. Luego junta semejantes. ✅🧾
+
+---
+
+16) Sustitución y evaluación: reemplazar valores y calcular.
+
+76) Evalúa \(x+5\) cuando \(x=3\).
+a) \(2\)
+b) \(5\)
+c) \(8\)
+d) \(15\)
+e) \(18\)
+Tip 💡: Sustituye \(x\) por \(3\) en toda la expresión: escribe \(3+5\) y luego calcula. No dejes la \(x\) en ningún lado. ✅
+
+77) Si \(y=-4\), ¿cuál es el valor de \(2y-7\)?
+a) \(-1\)
+b) \(-15\)
+c) \(1\)
+d) \(15\)
+e) \(-8\)
+Tip 💡: Primero sustituye \(y\) por \(-4\): queda \(2(-4)-7\). Multiplica primero y luego resta. Cuida los signos. 🔎
+
+78) Evalúa:
+\[
+3a^2 - 2a \quad \text{cuando } a=-2
+\]
+a) \(-4\)
+b) \(4\)
+c) \(8\)
+d) \(16\)
+e) \(20\)
+Tip 💡: Sustituye \(a=-2\) y respeta paréntesis: \(3(-2)^2-2(-2)\). Recuerda que \((-2)^2\) es positivo. ✅🧠
+
+79) Si \(m=5\) y \(n=2\), calcula:
+\[
+\frac{m-n}{m+n}
+\]
+a) \(\frac{3}{7}\)
+b) \(\frac{7}{3}\)
+c) \(\frac{3}{3}\)
+d) \(\frac{5}{2}\)
+e) \(\frac{2}{5}\)
+Tip 💡: Sustituye en numerador y denominador por separado: \(\frac{5-2}{5+2}\). Primero resuelve las sumas y restas y luego la fracción final. 📌
+
+80) Evalúa:
+\[
+(2x-3y)^2 \quad \text{cuando } x=4,\ y=-1
+\]
+a) \(25\)
+b) \(49\)
+c) \(64\)
+d) \(121\)
+e) \(169\)
+Tip 💡: Sustituye con cuidado: \(2(4)-3(-1)\). Resuelve primero dentro del paréntesis y después eleva al cuadrado. Ojo: el “menos” con \(y\) negativo se convierte en suma. ✅🔍
+
+---
+
+17) Productos notables básicos (si aplica): \((a+b)^2\), \((a-b)^2\), \((a+b)(a-b)\).
+
+81) Expande:
+\[
+(x+5)^2
+\]
+a) \(x^2+25\)
+b) \(x^2+10x+25\)
+c) \(x^2+5x+25\)
+d) \(x^2+10x-25\)
+e) \(x^2-10x+25\)
+Tip 💡: Usa la fórmula \((a+b)^2=a^2+2ab+b^2\). Identifica \(a=x\) y \(b=5\) y sustituye. ✅
+
+82) Expande:
+\[
+(2y-3)^2
+\]
+a) \(4y^2-9\)
+b) \(4y^2-6y+9\)
+c) \(4y^2-12y+9\)
+d) \(2y^2-12y+9\)
+e) \(4y^2+12y+9\)
+Tip 💡: Usa \((a-b)^2=a^2-2ab+b^2\). Aquí \(a=2y\) y \(b=3\). Cuida el término del medio: siempre lleva \(2ab\). 🔎
+
+83) Simplifica:
+\[
+(x+4)(x-4)
+\]
+a) \(x^2+16\)
+b) \(x^2-16\)
+c) \(x^2-8x+16\)
+d) \(x^2+8x+16\)
+e) \(x^2-4x-4\)
+Tip 💡: Es diferencia de cuadrados: \((a+b)(a-b)=a^2-b^2\). Identifica \(a=x\) y \(b=4\). ✅
+
+84) Expande:
+\[
+(3a+2b)^2
+\]
+a) \(9a^2+4b^2\)
+b) \(9a^2+6ab+4b^2\)
+c) \(9a^2+12ab+4b^2\)
+d) \(9a^2+12ab-4b^2\)
+e) \(3a^2+12ab+2b^2\)
+Tip 💡: Aplica \((a+b)^2=a^2+2ab+b^2\) con \(a=3a\) y \(b=2b\). Al multiplicar, junta bien letras: \((3a)(2b)=6ab\). 🧠
+
+85) Expande completamente:
+\[
+(2x-5)^2 - (2x+5)(2x-5)
+\]
+a) \(20x\)
+b) \(25\)
+c) \(10x+25\)
+d) \(4x^2-25\)
+e) \(4x^2+25\)
+Tip 💡: Hazlo por partes: primero expande \((2x-5)^2\) con \((a-b)^2\). Luego simplifica \((2x+5)(2x-5)\) con diferencia de cuadrados. Al final resta las expresiones con cuidado. ✅🔍
+
+---
+
+18) Factorización básica (si aplica): factor común, diferencia de cuadrados.
+
+86) Factoriza:
+\[
+6x + 12
+\]
+a) \(6(x+12)\)
+b) \(12(6x+1)\)
+c) \(6(x+2)\)
+d) \(3(2x+12)\)
+e) \(2(3x+12)\)
+Tip 💡: Busca el factor común más grande en ambos términos. Divide cada término entre ese factor y colócalo afuera del paréntesis. 🔍
+
+87) Factoriza:
+\[
+9y^2 - 25
+\]
+a) \((9y-25)(9y+25)\)
+b) \((3y-5)(3y+5)\)
+c) \((y-5)(y+5)\)
+d) \(9(y^2-25)\)
+e) \((3y-25)(3y+25)\)
+Tip 💡: Identifica si es diferencia de cuadrados: \(a^2-b^2=(a-b)(a+b)\). Revisa si \(9y^2\) y \(25\) son cuadrados perfectos. ✅
+
+88) Factoriza por factor común:
+\[
+4a^2b + 8ab^2
+\]
+a) \(4ab(a+2b)\)
+b) \(8ab(a+b)\)
+c) \(4ab(a+b)\)
+d) \(4ab(a^2+2b^2)\)
+e) \(ab(4a+8b)\)
+Tip 💡: El factor común incluye números y letras. Toma el mayor número común y las letras con el menor exponente que aparezca en ambos términos. 🧠
+
+89) Factoriza:
+\[
+x^2 - 16
+\]
+a) \((x-16)(x+16)\)
+b) \((x-8)(x+2)\)
+c) \((x-4)(x+4)\)
+d) \((x-4)^2\)
+e) \(x(x-16)\)
+Tip 💡: Si tienes un cuadrado menos otro cuadrado, aplica \(a^2-b^2=(a-b)(a+b)\). Aquí \(16\) es \(4^2\). 👀✅
+
+90) Factoriza completamente:
+\[
+12x^2 - 3
+\]
+a) \(3(4x^2-1)\)
+b) \(12(x^2-3)\)
+c) \(3(2x-1)(2x+1)\)
+d) \(3(4x-1)(x+1)\)
+e) \((12x-3)(x+1)\)
+Tip 💡: Primero saca factor común numérico. Luego revisa si lo que queda es diferencia de cuadrados. Hazlo en dos pasos y no te saltes la segunda factorización. ✅🔎
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 66:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 67:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 68:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 69:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 70:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 71:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 72:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 73:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 74:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 75:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 76:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 77:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 78:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 79:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 80:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 81:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 82:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 83:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 84:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 85:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 86:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 87:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 88:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 89:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 90:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+[/ANTIGRAVITY | ANSWER_KEY]

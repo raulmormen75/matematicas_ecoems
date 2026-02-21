@@ -1,0 +1,1206 @@
+---
+---
+
+Guía 1:
+
+EJERCICIO 65
+
+* Qué pide 📌  
+Calcular el resultado de la operación:
+\[
+(-25)(2)(-3)(0)(-9)(7)
+\]
+
+* Datos del problema 🧾  
+Los factores que se están multiplicando son:
+\[
+-25,\; 2,\; -3,\; 0,\; -9,\; 7
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Identifico que es una multiplicación de varios números:
+\[
+(-25)\cdot 2\cdot (-3)\cdot 0\cdot (-9)\cdot 7
+\]
+
+2) Regla básica de multiplicación 🔎✅  
+Si en un producto aparece un cero, entonces:
+\[
+(\text{cualquier número})\cdot 0 = 0
+\]
+
+3) Aquí aparece el factor \(0\), entonces todo el producto vale:
+\[
+(-25)\cdot 2\cdot (-3)\cdot 0\cdot (-9)\cdot 7 = 0
+\]
+
+* Resultado final ✅  
+\[
+0
+\]  
+La opción correcta es C) \(0\) 🎯
+
+* Verificación rápida 🔁  
+Como el producto contiene el factor \(0\):
+\[
+0\cdot 7 = 0 \quad \Rightarrow \quad \text{todo se queda en } 0
+\]
+
+Por qué no son las otras 🎯  
+- A) \(-9450\): imposible porque el producto tiene \(0\).  
+- B) \(-163\): imposible porque el producto tiene \(0\).  
+- D) \(9550\): imposible porque el producto tiene \(0\).
+
+
+============================================================
+
+
+EJERCICIO 66
+
+* Qué pide 📌  
+Elegir la opción que coloca paréntesis para respetar el orden correcto de operaciones en:
+\[
+2.5 \div 2 + \sqrt{9} - 1.5 \times 3.5
+\]
+
+* Datos del problema 🧾  
+Expresión:
+\[
+2.5 \div 2 + \sqrt{9} - 1.5 \times 3.5
+\]
+Reglas de orden de operaciones 🧠:
+1) Raíces \(\sqrt{\;}\) ✅  
+2) Multiplicación y división \(\times,\div\) de izquierda a derecha ✅  
+3) Suma y resta \(+,-\) de izquierda a derecha ✅  
+
+* Procedimiento paso a paso 🧠  
+1) Primero va la raíz 🧩:
+\[
+\sqrt{9}
+\]
+
+2) Luego van división y multiplicación ✍️:
+\[
+(2.5 \div 2)\quad \text{y}\quad (1.5 \times 3.5)
+\]
+
+3) Al final se hace \(+\) y luego \( - \) en ese orden ✅:
+\[
+(2.5 \div 2) + \sqrt{9} - (1.5 \times 3.5)
+\]
+
+Eso coincide exactamente con la opción C 🎯
+
+* Resultado final ✅  
+La opción correcta es: C)  
+\[
+(2.5 \div 2) + \sqrt{9} - (1.5 \times 3.5)
+\]
+
+* Verificación rápida 🔁  
+Si lo evalúas con el orden correcto:
+\[
+\sqrt{9}=3,\quad 2.5\div 2=1.25,\quad 1.5\times 3.5=5.25
+\]
+Luego:
+\[
+1.25+3-5.25=-1
+\]
+La opción C obliga justo a hacer esas operaciones primero, y luego \(+\) y \( - \).
+
+Por qué las otras no 🎯  
+- A) pone \((2+\sqrt{9})\) en el denominador: obliga a sumar antes de dividir, y eso cambia la expresión. ❌  
+- B) agrupa \(2+\sqrt{9}-1.5\) y después afecta a \(3.5\): altera el orden original. ❌  
+- D) obliga a hacer \((\sqrt{9}-1.5)\times 3.5\), pero en la original es \(1.5\times 3.5\), no \((\sqrt{9}-1.5)\times 3.5\). ❌
+
+
+============================================================
+
+
+EJERCICIO 67
+
+* Qué pide 📌  
+Calcular cuántos animales habrá al final de la temporada si se parte de \(10{,}000\) y se espera un incremento del \(120\%\) de su población.
+
+* Datos del problema 🧾  
+- Población inicial:
+\[
+P_0 = 10{,}000
+\]
+- Incremento esperado:
+\[
+120\%
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Entender qué significa “incremento del \(120\%\)” ✅🐭  
+Un incremento del \(120\%\) significa que se agrega el \(120\%\) de la cantidad inicial:
+\[
+P_{\text{final}} = P_0 + 120\%\text{ de }P_0
+\]
+
+2) Convertir \(120\%\) a número decimal 🔄  
+\[
+120\%=\frac{120}{100}=1.2
+\]
+
+3) Calcular el aumento 📈  
+\[
+\text{Aumento} = 1.2\cdot 10{,}000 = 12{,}000
+\]
+
+4) Sumar al valor inicial ➕  
+\[
+P_{\text{final}} = 10{,}000 + 12{,}000 = 22{,}000
+\]
+
+También se puede directo así:
+\[
+P_{\text{final}} = (1+1.2)\cdot 10{,}000 = 2.2\cdot 10{,}000 = 22{,}000
+\]
+
+* Resultado final ✅  
+\[
+22{,}000
+\]  
+Opción correcta: B) \(22{,}000\) 🎯
+
+* Verificación rápida 🔁  
+Si el final es \(22{,}000\), el aumento fue:
+\[
+22{,}000-10{,}000=12{,}000
+\]
+Y ese aumento como porcentaje del inicio:
+\[
+\frac{12{,}000}{10{,}000}=1.2=120\%
+\]
+Coincide ✅
+
+Por qué las otras no 🎯  
+- A) \(12{,}000\): eso es el aumento, no el total final. ❌  
+- C) \(120{,}000\): confunde \(120\%\) con “multiplicar por \(120\)”. ❌  
+- D) \(220{,}000\): confunde \(220\%\) con “multiplicar por \(220\)”. Lo correcto es multiplicar por \(2.2\). ❌
+
+
+============================================================
+
+
+EJERCICIO 68
+
+* Qué pide 📌  
+Expresar la suma de las edades de Juan, Luis, Isaac y Pedro en función de \(x\).
+
+* Datos del problema 🧾  
+- Juan:
+\[
+J = x
+\]
+- Luis es la tercera parte de Juan:
+\[
+L=\frac{1}{3}x
+\]
+- Isaac es el doble de Luis:
+\[
+I=2L
+\]
+- Pedro es el cuádruple de Juan:
+\[
+P=4x
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Escribir cada edad con \(x\) ✍️  
+Juan:
+\[
+J=x
+\]
+Luis:
+\[
+L=\frac{x}{3}
+\]
+Isaac (doble de Luis) 👀:
+\[
+I=2\left(\frac{x}{3}\right)=\frac{2x}{3}
+\]
+Pedro:
+\[
+P=4x
+\]
+
+2) Sumar las cuatro edades ➕  
+\[
+J+L+I+P=x+\frac{x}{3}+\frac{2x}{3}+4x
+\]
+
+3) Juntar fracciones primero 🧩  
+\[
+\frac{x}{3}+\frac{2x}{3}=\frac{3x}{3}=x
+\]
+
+Entonces:
+\[
+x+\left(\frac{x}{3}+\frac{2x}{3}\right)+4x=x+x+4x
+\]
+
+4) Sumar términos semejantes ✅  
+\[
+x+x+4x=6x
+\]
+
+* Resultado final ✅  
+\[
+6x
+\]  
+Opción correcta: B) \(6x\) 🎯
+
+* Verificación rápida 🔁  
+Prueba con \(x=3\) 👇  
+- Juan: \(3\)  
+- Luis: \(\frac{3}{3}=1\)  
+- Isaac: \(2(1)=2\)  
+- Pedro: \(4(3)=12\)  
+Suma:
+\[
+3+1+2+12=18
+\]
+Y con la fórmula:
+\[
+6x=6(3)=18
+\]
+Coincide ✅
+
+Por qué las otras no 🎯  
+- A) \(-\frac{7}{3}x\): sale negativo sin razón (todas las edades son positivas). ❌  
+- C) \(5x\): ignora parte de la suma (\(L+I\) juntos dan \(x\), no \(\frac{x}{3}\)). ❌  
+- D) \(\frac{8}{3}x\): es demasiado chico; solo Pedro ya es \(4x\). ❌
+
+
+============================================================
+
+
+EJERCICIO 69
+
+* Qué pide 📌  
+Resolver la ecuación:
+\[
+x-3=6
+\]
+y elegir la opción correcta.
+
+* Datos del problema 🧾  
+Ecuación:
+\[
+x-3=6
+\]
+Opciones: A) \(-3\), B) \(2\), C) \(3\), D) \(9\)
+
+* Procedimiento paso a paso 🧠  
+1) La meta es dejar sola a \(x\) ✅  
+\[
+x-3=6
+\]
+
+2) Para “quitar” el \(-3\), sumamos \(3\) a ambos lados ➕  
+\[
+x-3+3=6+3
+\]
+
+3) Simplificar lado izquierdo 🔎  
+\[
+-3+3=0
+\]
+\[
+x+0=9
+\]
+\[
+x=9
+\]
+
+* Resultado final ✅  
+\[
+x=9
+\]  
+Opción correcta: D) \(x=9\) 🎯
+
+* Verificación rápida 🔁  
+Sustituir \(x=9\) en la ecuación original:
+\[
+9-3=6
+\]
+\[
+6=6
+\]
+Se cumple ✅
+
+Por qué las otras no 🎯  
+- A) \(x=-3\): \(-3-3=-6\neq 6\) ❌  
+- B) \(x=2\): \(2-3=-1\neq 6\) ❌  
+- C) \(x=3\): \(3-3=0\neq 6\) ❌
+
+
+============================================================
+
+
+EJERCICIO 70
+
+* Qué pide 📌  
+Resolver el sistema de ecuaciones y elegir la opción correcta:
+\[
+\begin{cases}
+4x + 5y = 48\\
+3x - y = -2
+\end{cases}
+\]
+
+* Datos del problema 🧾  
+\[
+4x + 5y = 48
+\]
+\[
+3x - y = -2
+\]
+Opciones:  
+A) \(x=8,\; y=2\)  
+B) \(x=2,\; y=-8\)  
+C) \(x=2,\; y=8\)  
+D) \(x=-2,\; y=-8\)
+
+* Procedimiento paso a paso 🧠  
+Método: sustitución ✅
+
+1) Despejar \(y\) de la segunda ecuación ✍️  
+\[
+3x - y = -2
+\]
+\[
+-y = -2 - 3x
+\]
+\[
+y = 2 + 3x
+\]
+
+2) Sustituir en la primera ecuación 🧩  
+\[
+4x + 5(2+3x)=48
+\]
+
+3) Distribuir el \(5\) 🔎  
+\[
+4x + 10 + 15x = 48
+\]
+
+4) Juntar términos con \(x\) ➕  
+\[
+19x + 10 = 48
+\]
+
+5) Restar \(10\) ➖  
+\[
+19x = 38
+\]
+
+6) Dividir entre \(19\) ✅  
+\[
+x=\frac{38}{19}=2
+\]
+
+7) Sustituir \(x=2\) en \(y=2+3x\) 🧠  
+\[
+y=2+3(2)=8
+\]
+
+* Resultado final ✅  
+\[
+x=2,\quad y=8
+\]  
+Opción correcta: C) \(x=2\) y \(y=8\) 🎯
+
+* Verificación rápida 🔁  
+1) \[
+4(2)+5(8)=8+40=48 \;\checkmark
+\]
+2) \[
+3(2)-8=6-8=-2 \;\checkmark
+\]
+
+Por qué las otras no 🎯  
+- A) \(3(8)-2=22\neq -2\) ❌  
+- B) \(4(2)+5(-8)=-32\neq 48\) ❌  
+- D) \(4(-2)+5(-8)=-48\neq 48\) ❌
+
+
+============================================================
+
+
+EJERCICIO 71
+
+* Qué pide 📌  
+Elegir los valores de \(x\) que satisfacen:
+\[
+3x^{2}-7x-6=0
+\]
+
+* Datos del problema 🧾  
+\[
+a=3,\quad b=-7,\quad c=-6
+\]
+Fórmula general:
+\[
+x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Sustituir:
+\[
+x=\frac{-(-7)\pm\sqrt{(-7)^{2}-4(3)(-6)}}{2(3)}
+\]
+
+2) Simplificar:
+\[
+x=\frac{7\pm\sqrt{49+72}}{6}
+\]
+
+3) Dentro de la raíz:
+\[
+49+72=121
+\]
+\[
+x=\frac{7\pm\sqrt{121}}{6}
+\]
+
+4) Raíz:
+\[
+\sqrt{121}=11
+\]
+\[
+x=\frac{7\pm 11}{6}
+\]
+
+5) Soluciones:
+\[
+x_1=\frac{7+11}{6}=\frac{18}{6}=3
+\]
+\[
+x_2=\frac{7-11}{6}=\frac{-4}{6}=-\frac{2}{3}
+\]
+
+* Resultado final ✅  
+\[
+x_1=3,\quad x_2=-\frac{2}{3}
+\]
+Opción correcta: C) 🎯
+
+* Verificación rápida 🔁  
+Para \(x=3\):
+\[
+3(3)^2-7(3)-6=27-21-6=0
+\]
+Para \(x=-\frac{2}{3}\):
+\[
+3\left(\frac{4}{9}\right)+\frac{14}{3}-6=\frac{4}{3}+\frac{14}{3}-\frac{18}{3}=0
+\]
+
+Por qué las otras no 🎯  
+- A), B), D) no coinciden con \(3\) y \(-\frac{2}{3}\). ❌
+
+
+============================================================
+
+
+EJERCICIO 72
+
+* Qué pide 📌  
+Con la tabla del IEV, decidir cuál afirmación es correcta sobre la altura de la fumarola en una erupción paroxismal.
+
+* Datos del problema 🧾  
+De la tabla:
+- Paroxismal:
+\[
+\text{altura} > 25\ \text{km}
+\]
+- Violenta:
+\[
+3\ \text{km} \le \text{altura} \le 15\ \text{km}
+\]
+- Cataclísmica:
+\[
+10\ \text{km} \le \text{altura} \le 25\ \text{km}
+\]
+- Colosal, Supercolosal, Megacolosal:
+\[
+\text{altura} > 25\ \text{km}
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Comparo con violenta:
+\[
+>25\ \text{km} > 15\ \text{km}
+\]
+Entonces paroxismal es más grande que violenta ✅
+
+2) Por qué C no puede ser:
+Hay otras categorías también con:
+\[
+>25\ \text{km}
+\]
+Entonces no es “más grande que todas”, en varias es del mismo rango ❌
+
+3) A tampoco:
+Paroxismal no puede ser la más pequeña porque es \(>25\ \text{km}\) ❌
+
+Nota: la opción D no se ve completa en la captura. No se evalúa sin inventar. 🚫🧩
+
+* Resultado final ✅  
+Opción correcta: B) 🎯
+
+* Verificación rápida 🔁  
+\[
+>25\ \text{km} \;>\; 15\ \text{km}
+\]
+✅
+
+
+============================================================
+
+
+EJERCICIO 73
+
+* Qué pide 📌  
+Calcular la media (promedio) de las calificaciones finales.
+
+* Datos del problema 🧾  
+Calificaciones:
+\[
+6,\;7,\;9,\;7,\;9,\;9,\;9
+\]
+Número de materias:
+\[
+n=7
+\]
+
+* Procedimiento paso a paso 🧠  
+1) Fórmula:
+\[
+\bar{x}=\frac{\text{suma}}{n}
+\]
+
+2) Suma:
+\[
+6+7+9+7+9+9+9
+\]
+Agrupando:
+\[
+(6+7+7) + (9+9+9+9)=20+36=56
+\]
+
+3) Dividir:
+\[
+\bar{x}=\frac{56}{7}=8
+\]
+
+* Resultado final ✅  
+\[
+8
+\]
+Opción correcta: D) 8 🎯
+
+* Verificación rápida 🔁  
+\[
+8\cdot 7=56
+\]
+Coincide ✅
+
+
+============================================================
+
+
+EJERCICIO 74
+
+* Qué pide 📌  
+Identificar un par de ángulos alternos internos en la figura.
+
+* Datos del problema 🧾  
+Ángulos internos entre paralelas:
+\[
+\{3,4,5,6\}
+\]
+
+* Procedimiento paso a paso 🧠  
+Alternos internos: internos y en lados opuestos de la transversal ✅
+
+Pares posibles:
+\[
+(4,6),\quad (3,5)
+\]
+
+Comparando con opciones:
+A) \(4\) y \(6\) ✅
+
+* Resultado final ✅  
+Opción correcta: A) \(4\) y \(6\) 🎯
+
+* Verificación rápida 🔁  
+En paralelas:
+\[
+\angle 4 = \angle 6
+\]
+✅
+
+Por qué las otras no 🚫  
+- B) \(6\) y \(5\): mismo lado de la transversal, no alternos.  
+- C) \(7\) y \(3\): \(7\) es externo.  
+- D) no corresponde (además está mal escrita en la captura).
+
+
+============================================================
+
+
+EJERCICIO 75 (ÁREA DEL RECTÁNGULO)
+
+* Qué pide 📌  
+Calcular el área de un rectángulo de largo \(15.8\ \text{cm}\) y ancho \(7.3\ \text{cm}\).
+
+* Datos del problema 🧾  
+\[
+L=15.8,\quad A=7.3
+\]
+\[
+\text{Área}=L\cdot A
+\]
+
+* Procedimiento paso a paso 🧠  
+\[
+\text{Área}=15.8\cdot 7.3=\frac{158}{10}\cdot\frac{73}{10}=\frac{158\cdot 73}{100}
+\]
+\[
+158\cdot 73=158(70+3)=11060+474=11534
+\]
+\[
+\text{Área}=\frac{11534}{100}=115.34\ \text{cm}^2
+\]
+
+* Resultado final ✅  
+\[
+115.34\ \text{cm}^2
+\]
+Opción correcta: A) 🎯
+
+* Verificación rápida 🔁  
+\[
+16\cdot 7=112 \quad \text{(aprox.)} \Rightarrow 115.34 \text{ tiene sentido}
+\]
+✅
+
+
+============================================================
+
+
+EJERCICIO 76 (VOLUMEN DEL CUBO)
+
+* Qué pide 📌  
+Calcular el volumen de un cubo de lado \(10\ \text{cm}\) y elegir la opción correcta.
+
+* Datos del problema 🧾  
+\[
+l=10\ \text{cm}
+\]
+\[
+V=l^3
+\]
+
+* Procedimiento paso a paso 🧠  
+\[
+V=10^3=10\cdot 10\cdot 10
+\]
+\[
+10\cdot 10=100
+\]
+\[
+100\cdot 10=1000
+\]
+\[
+V=1000\ \text{cm}^3
+\]
+
+* Resultado final ✅  
+\[
+1000\ \text{cm}^3
+\]
+Opción correcta: D) 🎯
+
+* Verificación rápida 🔁  
+\[
+(10\times 10)\times 10 = 100\times 10 = 1000
+\]
+✅
+
+---
+---
+
+Guía 2:
+
+## Ejercicio 65
+
+**Qué pide** 📌  
+Calcular el valor de la expresión: \(-2 + (3)(4) - (-5)8\).
+
+**Datos del problema** 🧾  
+\((3)(4)\) es multiplicación y \((-5)8\) también es multiplicación.
+
+**Procedimiento paso a paso** 🧠  
+1) Multiplicaciones primero ✖️  
+\[
+(3)(4)=12
+\]  
+\[
+(-5)(8)=-40
+\]
+
+2) Sustituye en la expresión 🔁  
+\[
+-2 + 12 - (-40)
+\]
+
+3) Restar un negativo es sumar ✅  
+\[
+-2 + 12 + 40
+\]
+
+4) Suma de izquierda a derecha ➕  
+\[
+-2+12=10
+\]  
+\[
+10+40=50
+\]
+
+**Resultado final** ✅  
+\[
+50
+\]  
+Opción correcta: **B) 50** 🎯
+
+**Verificación rápida** 🔁  
+Si en vez de \(-(-40)\) fuera \(-40\), bajaría mucho el resultado; aquí se suma \(40\), por eso da \(50\), no \(36\), \(46\), \(68\) ni \(24\).
+
+---
+
+## Ejercicio 66
+
+**Qué pide** 📌  
+Con cuántos puntos cerró la semana.
+
+**Datos del problema** 🧾  
+Inicio: \(28\)  
+Lun: \(+15\), Mar: \(-12\), Mié: \(-16\), Jue: \(+40\), Vie: \(-18\)
+
+**Procedimiento paso a paso** 🧠  
+\[
+28+15=43
+\]  
+\[
+43-12=31
+\]  
+\[
+31-16=15
+\]  
+\[
+15+40=55
+\]  
+\[
+55-18=37
+\]
+
+**Resultado final** ✅  
+\[
+37
+\]  
+Opción correcta: **E) 37** 🎯
+
+**Verificación rápida** 🔁  
+Cambios netos:
+\[
+15-12-16+40-18=9
+\]
+\[
+28+9=37
+\]
+
+---
+
+## Ejercicio 67
+
+**Qué pide** 📌  
+Cuántos reprobaron si aprobó \(30\%\) de \(50\).
+
+**Datos del problema** 🧾  
+Total: \(50\)  
+Aprobó: \(30\%\)
+
+**Procedimiento paso a paso** 🧠  
+1) Aprobados ✅  
+\[
+30\%=\frac{30}{100}=0.30
+\]
+\[
+0.30(50)=15
+\]
+
+2) Reprobados ❌  
+\[
+50-15=35
+\]
+
+**Resultado final** ✅  
+\[
+35
+\]  
+Opción correcta: **E) 35** 🎯
+
+**Verificación rápida** 🔁  
+Si aprobó \(15\), el resto necesariamente es \(50-15\).
+
+---
+
+## Ejercicio 68
+
+**Qué pide** 📌  
+Encontrar \(y\) en el sistema:
+\[
+\begin{cases}
+5x+3y=5\\
+4x+7y=27
+\end{cases}
+\]
+
+**Datos del problema** 🧾  
+Dos ecuaciones lineales con dos incógnitas.
+
+**Procedimiento paso a paso** 🧠  
+1) Igualamos el coeficiente de \(x\) 🔧  
+Multiplica la primera por \(4\):  
+\[
+4(5x+3y)=4(5)\Rightarrow 20x+12y=20
+\]
+Multiplica la segunda por \(5\):  
+\[
+5(4x+7y)=5(27)\Rightarrow 20x+35y=135
+\]
+
+2) Resta para eliminar \(x\) ✂️  
+\[
+(20x+35y)-(20x+12y)=135-20
+\]
+\[
+23y=115
+\]
+
+3) Divide entre \(23\) ➗  
+\[
+y=\frac{115}{23}=5
+\]
+
+**Resultado final** ✅  
+\[
+y=5
+\]  
+Opción correcta: **E) 5** 🎯
+
+**Verificación rápida** 🔁  
+Sustituye en \(5x+3y=5\):  
+\[
+5x+3(5)=5\Rightarrow 5x+15=5\Rightarrow 5x=-10\Rightarrow x=-2
+\]
+Revisa en la otra:  
+\[
+4(-2)+7(5)=-8+35=27
+\]
+Sí cuadra ✅
+
+---
+
+## Ejercicio 69
+
+**Qué pide** 📌  
+Factorizar:
+\[
+4a^{2}-9b^{2}
+\]
+
+**Datos del problema** 🧾  
+Es diferencia de cuadrados:
+\[
+A^{2}-B^{2}=(A+B)(A-B)
+\]
+
+**Procedimiento paso a paso** 🧠  
+1) Reescribe como cuadrados 🧩  
+\[
+4a^{2}=(2a)^{2}
+\]
+\[
+9b^{2}=(3b)^{2}
+\]
+
+2) Aplica la fórmula ✅  
+\[
+4a^{2}-9b^{2}=(2a+3b)(2a-3b)
+\]
+
+**Resultado final** ✅  
+\[
+(2a+3b)(2a-3b)
+\]  
+Opción correcta: **A) Opción 1** 🎯
+
+**Verificación rápida** 🔁  
+\[
+(2a+3b)(2a-3b)=(2a)^{2}-(3b)^{2}=4a^{2}-9b^{2}
+\]
+
+---
+
+## Ejercicio 70
+
+**Qué pide** 📌  
+Elegir la gráfica que representa:
+\[
+C=3x
+\]
+
+**Datos del problema** 🧾  
+Puntos de referencia:  
+\[
+x=0\Rightarrow C=0
+\]
+\[
+x=2\Rightarrow C=6
+\]
+\[
+x=5\Rightarrow C=15
+\]
+
+**Procedimiento paso a paso** 🧠  
+1) Es una relación lineal 📈  
+\[
+C=3x
+\]
+Recta que pasa por el origen \((0,0)\) y sube (pendiente positiva).
+
+2) Compara con las opciones 👀  
+- A: recta horizontal (costo constante) ❌  
+- B y D: curva (no es lineal) ❌  
+- E: recta que baja (pendiente negativa) ❌  
+- C: recta que sube desde el origen ✅
+
+**Resultado final** ✅  
+Opción correcta: **C) C** 🎯
+
+**Verificación rápida** 🔁  
+En la recta correcta, al duplicar \(x\), se duplica \(C\). Eso solo pasa en una recta que pasa por \((0,0)\).
+
+---
+
+## Ejercicio 71
+
+**Qué pide** 📌  
+Encontrar la moda de:
+\[
+8,5,9,6,5,6,7,6,10,6
+\]
+
+**Datos del problema** 🧾  
+Moda = el valor que más se repite.
+
+**Procedimiento paso a paso** 🧠  
+Cuenta repeticiones 📊  
+- \(5\): \(2\) veces  
+- \(6\): \(4\) veces  
+- \(7\): \(1\) vez  
+- \(8\): \(1\) vez  
+- \(9\): \(1\) vez  
+- \(10\): \(1\) vez  
+
+La mayor frecuencia es \(4\) (del \(6\)) ✅
+
+**Resultado final** ✅  
+\[
+6
+\]  
+Opción correcta: **B) 6** 🎯
+
+**Verificación rápida** 🔁  
+A simple conteo, ningún otro número aparece tantas veces como \(6\).
+
+---
+
+## Ejercicio 72
+
+**Qué pide** 📌  
+Probabilidad de tomar una blusa azul.
+
+**Datos del problema** 🧾  
+Azules: \(3\), Blancas: \(2\), Negras: \(2\), Roja: \(1\)  
+Total:
+\[
+3+2+2+1=8
+\]
+
+**Procedimiento paso a paso** 🧠  
+\[
+P(\text{azul})=\frac{3}{8}
+\]
+Convierte a decimal:
+\[
+\frac{3}{8}=0.375
+\]
+
+**Resultado final** ✅  
+\[
+0.375
+\]  
+Opción correcta: **E) 0.375** 🎯
+
+**Verificación rápida** 🔁  
+\[
+0.375\times 8=3
+\]
+Regresa exactamente a las \(3\) blusas azules ✅
+
+---
+
+## Ejercicio 73
+
+**Qué pide** 📌  
+Probabilidad de sacar una bola roja de una urna con \(8\) bolas de colores distintos.
+
+**Datos del problema** 🧾  
+Total: \(8\) bolas, rojas: \(1\)
+
+**Procedimiento paso a paso** 🧠  
+\[
+P(\text{roja})=\frac{1}{8}
+\]
+
+**Resultado final** ✅  
+\[
+\frac{1}{8}
+\]  
+Opción correcta: **C) \(1/8\)** 🎯
+
+**Verificación rápida** 🔁  
+Si todas son igual de probables y solo hay \(1\) roja entre \(8\), forzosamente es \(\frac{1}{8}\).
+
+---
+
+## Ejercicio 74
+
+**Qué pide** 📌  
+Ángulos agudos de un triángulo rectángulo si \(b=c\).
+
+**Datos del problema** 🧾  
+Triángulo rectángulo: un ángulo es \(90^\circ\).  
+Si \(b=c\), los catetos son iguales.
+
+**Procedimiento paso a paso** 🧠  
+1) Si dos lados son iguales, los ángulos opuestos son iguales 🔁  
+Los dos ángulos agudos miden lo mismo: sea \(\theta\) y \(\theta\).
+
+2) Suma de ángulos en un triángulo 📐  
+\[
+90^\circ+\theta+\theta=180^\circ
+\]
+
+3) Despeja \(\theta\) 🧠  
+\[
+90^\circ+2\theta=180^\circ
+\]
+\[
+2\theta=90^\circ
+\]
+\[
+\theta=45^\circ
+\]
+
+**Resultado final** ✅  
+\[
+45^\circ \text{ y } 45^\circ
+\]  
+Opción correcta: **C) \(45^\circ\) y \(45^\circ\)** 🎯
+
+**Verificación rápida** 🔁  
+\[
+45^\circ+45^\circ+90^\circ=180^\circ
+\]
+Sí ✅
+
+---
+
+## Ejercicio 75
+
+**Qué pide** 📌  
+Si \(\sin\alpha=\frac{3}{5}\), hallar \(\tan\alpha\).
+
+**Datos del problema** 🧾  
+En triángulo rectángulo:
+\[
+\sin\alpha=\frac{\text{opuesto}}{\text{hipotenusa}}
+\]
+
+**Procedimiento paso a paso** 🧠  
+1) Asigna lados según \(\sin\alpha\) 📌  
+\[
+\sin\alpha=\frac{3}{5}\Rightarrow \text{opuesto}=3,\ \text{hipotenusa}=5
+\]
+
+2) Encuentra el cateto adyacente con Pitágoras 📐  
+\[
+\text{adyacente}=\sqrt{5^{2}-3^{2}}=\sqrt{25-9}=\sqrt{16}=4
+\]
+
+3) Calcula la tangente ✅  
+\[
+\tan\alpha=\frac{\text{opuesto}}{\text{adyacente}}=\frac{3}{4}
+\]
+
+**Resultado final** ✅  
+\[
+\frac{3}{4}
+\]  
+Opción correcta: **C) \(3/4\)** 🎯
+
+**Verificación rápida** 🔁  
+Si es el triángulo \(3-4-5\), entonces \(\sin=\frac{3}{5}\) y \(\tan=\frac{3}{4}\). Cuadra perfecto ✅
+
+---
+
+## Ejercicio 76
+
+**Qué pide** 📌  
+Volumen de un cubo de lado \(10\ \text{cm}\).
+
+**Datos del problema** 🧾  
+Fórmula:
+\[
+V=s^{3}
+\]
+con \(s=10\ \text{cm}\).
+
+**Procedimiento paso a paso** 🧠  
+\[
+V=(10)^{3}=10\cdot 10\cdot 10=1000
+\]
+
+Unidad:
+\[
+\text{cm}^{3}
+\]
+
+**Resultado final** ✅  
+\[
+1000\ \text{cm}^{3}
+\]  
+Opción correcta: **E) 1000 cm cúbicos** 🎯
+
+**Verificación rápida** 🔁  
+Un cubo de lado \(2\) tendría \(2^{3}=8\). Aquí el lado es \(10\), entonces \(10^{3}=1000\). Consistente ✅

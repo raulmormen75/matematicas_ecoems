@@ -1,0 +1,142 @@
+B) Jerarquía y cálculo algebraico básico 🧮
+
+---
+
+7) Jerarquía de operaciones: paréntesis, exponentes, multiplicación/división, suma/resta.
+
+31) Calcula:
+\[
+6 + 3 \times 4
+\]
+a) \(36\)
+b) \(18\)
+c) \(24\)
+d) \(15\)
+e) \(9\)
+Tip 💡: Primero van multiplicaciones y divisiones, y al final sumas y restas. No te vayas por el orden en que lo lees. 🧠
+
+32) Calcula:
+\[
+(8-5)^2
+\]
+a) \(9\)
+b) \(6\)
+c) \(3\)
+d) \(1\)
+e) \(25\)
+Tip 💡: Resuelve primero lo que está dentro del paréntesis y después aplica el exponente. No eleves solo a un número si el paréntesis incluye toda la operación. ✅
+
+33) Calcula:
+\[
+18 \div 3 \times 2
+\]
+a) \(3\)
+b) \(6\)
+c) \(12\)
+d) \(18\)
+e) \(36\)
+Tip 💡: Multiplicación y división tienen la misma prioridad, así que se resuelven de izquierda a derecha. Haz primero \(18\div 3\) y luego multiplica por \(2\). 👀
+
+34) Calcula:
+\[
+7 + 12 \div (3+1)
+\]
+a) \(4.75\)
+b) \(7.75\)
+c) \(10\)
+d) \(13\)
+e) \(19\)
+Tip 💡: Empieza por el paréntesis \((3+1)\), luego la división \(12\div\) ese resultado, y al final suma el \(7\). Ve por capas. 🧾
+
+35) Calcula:
+\[
+\left[ 5^2 - (6-2)\times 3 \right] \div 2
+\]
+a) \(1\)
+b) \(3.5\)
+c) \(6.5\)
+d) \(7\)
+e) \(13\)
+Tip 💡: Orden recomendado: 1) potencias, 2) paréntesis, 3) multiplicación/división, 4) suma/resta. No saltes pasos: resuelve el corchete completo antes de dividir entre \(2\). 🔎✅
+
+---
+
+8) Estimación y verificación: cálculo mental, revisar coherencia del resultado.
+
+36) Sin hacer la operación exacta, ¿cuál es la mejor estimación de \(49 \times 21\)?
+a) \(900\)
+b) \(1\,000\)
+c) \(1\,100\)
+d) \(1\,500\)
+e) \(2\,000\)
+Tip 💡: Redondea a números “fáciles”: \(49\approx 50\) y \(21\approx 20\). Multiplica esos aproximados y elige la opción más cercana. 🔍
+
+37) Si \(198 \div 6\) se estima como \(200 \div 5\), ¿qué tan razonable es esa estimación?
+a) Da un resultado mucho menor al real
+b) Da un resultado mucho mayor al real
+c) Da un resultado cercano al real
+d) Siempre da exactamente el mismo resultado
+e) No sirve porque no se puede estimar divisiones
+Tip 💡: Compara la operación real con la estimada: si aumentas el numerador y disminuyes el denominador, el cociente tiende a subir. Usa esa idea para juzgar si se pasó o se quedó corto. 👀
+
+38) Un alumno obtuvo \(3.7\) como resultado de \(1.8 + 2.1\). ¿Qué conclusión es correcta?
+a) Es correcto porque \(1.8+2.1\) es mayor que \(4\)
+b) Es incorrecto porque \(1.8+2.1\) debe ser cerca de \(3.9\)
+c) Es correcto porque \(1.8\) y \(2.1\) suman menos de \(3\)
+d) Es incorrecto porque \(1.8+2.1\) debe ser \(3.0\)
+e) No se puede saber sin calculadora
+Tip 💡: Estima con redondeo: \(1.8\approx 2\) y \(2.1\approx 2\). La suma aproximada es \(4\), así que el resultado exacto debe andar cerca de ahí. ✅
+
+39) Se calcula \(19.6 \times 5.2\) y alguien dice que el resultado es \(1\,019.2\). ¿Cuál verificación rápida ayuda más?
+a) Revisar solo el último dígito
+b) Contar el número de decimales al final
+c) Comparar con \(20\times 5\)
+d) Cambiar el orden de los factores
+e) Volver a multiplicar sin punto decimal y dejarlo así
+Tip 💡: Antes de checar decimales exactos, compara el tamaño: \(19.6\approx 20\) y \(5.2\approx 5\). Si el aproximado da cerca de \(100\), un resultado de más de \(1\,000\) ya suena raro. 📏
+
+40) Un alumno resolvió \(\frac{3}{4}+\frac{1}{2}\) y obtuvo \(\frac{4}{6}\). ¿Cuál revisión rápida detecta el error?
+a) Ver si el denominador es par
+b) Comparar con \(1\)
+c) Revisar si numerador y denominador son primos
+d) Convertir \(\frac{4}{6}\) a decimal y ya
+e) Revisar si la fracción se puede simplificar
+Tip 💡: Estima: \(\frac{3}{4}=0.75\) y \(\frac{1}{2}=0.5\). La suma es \(1.25\), o sea, debe ser mayor que \(1\). Si el resultado es menor que \(1\), algo falló. 👀✅
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 31:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 32:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 33:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 34:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 35:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 36:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 37:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 38:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 39:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 40:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+[/ANTIGRAVITY | ANSWER_KEY]

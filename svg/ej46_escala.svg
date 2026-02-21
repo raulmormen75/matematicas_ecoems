@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" fill="none">
+  <rect width="300" height="120" rx="10" fill="#f5f5f5"/>
+  <path d="M40,30 Q80,10 120,40 T260,30 L260,90 Q220,110 180,80 T40,90 Z" fill="#a5d6a7" opacity="0.5"/>
+  <circle cx="90" cy="60" r="5" fill="#d32f2f"/>
+  <circle cx="190" cy="60" r="5" fill="#d32f2f"/>
+  <line x1="90" y1="60" x2="190" y2="60" stroke="#333" stroke-width="2" stroke-dasharray="4"/>
+  <text x="140" y="50" font-family="sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">5 cm</text>
+  <text x="140" y="105" font-family="sans-serif" font-size="12" font-weight="bold" fill="#555" text-anchor="middle">Escala 1 : 1,000,000</text>
+</svg>

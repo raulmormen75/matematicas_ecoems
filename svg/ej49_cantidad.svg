@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" fill="none">
+  <rect width="300" height="120" rx="10" fill="#f5f5f5"/>
+  <circle cx="80" cy="60" r="35" fill="none" stroke="#e0e0e0" stroke-width="12"/>
+  <path d="M80,25 A35,35 0 0,1 113,48" fill="none" stroke="#26a69a" stroke-width="12" stroke-linecap="round"/>
+  <text x="80" y="65" font-family="sans-serif" font-size="16" font-weight="bold" fill="#26a69a" text-anchor="middle">15%</text>
+  <line x1="130" y1="60" x2="160" y2="60" stroke="#333" stroke-width="2"/>
+  <text x="200" y="65" font-family="sans-serif" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">45</text>
+  <text x="140" y="100" font-family="sans-serif" font-size="12" font-weight="bold" fill="#666" text-anchor="middle">¿Total (100%)?</text>
+</svg>

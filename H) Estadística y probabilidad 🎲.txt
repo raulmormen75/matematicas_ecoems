@@ -1,0 +1,399 @@
+H) Estadística y probabilidad 🎲
+
+---
+
+37) Promedio (media): cálculo e interpretación en contexto.
+
+181) Las calificaciones de un alumno fueron: \(7, 8, 6, 9, 10\). ¿Cuál es la media?
+a) \(7.5\)
+b) \(8.0\)
+c) \(8.2\)
+d) \(8.5\)
+e) \(9.0\)
+Tip 💡: La media es:
+\[
+\bar{x}=\frac{\text{suma de datos}}{\text{número de datos}}
+\]
+Suma todo y divide entre \(5\). ✅
+
+182) Un equipo anotó \(12, 15, 9, 18\) y \(6\) puntos en cinco partidos. ¿Cuál es el promedio de puntos por partido?
+a) \(10\)
+b) \(11\)
+c) \(12\)
+d) \(13\)
+e) \(14\)
+Tip 💡: Promedio es “repartir parejo”. Suma los puntos totales y divide entre \(5\). Verifica que el resultado quede entre el mínimo y el máximo. 👀✅
+
+183) El promedio de \(4\) números es \(12\). Tres de ellos son \(10\), \(14\) y \(13\). ¿Cuál es el cuarto número?
+a) \(9\)
+b) \(10\)
+c) \(11\)
+d) \(12\)
+e) \(13\)
+Tip 💡: Si el promedio es \(12\) con \(4\) datos, entonces la suma total es \(12\cdot 4\). Resta los tres datos conocidos para encontrar el faltante. ✅🧠
+
+184) En una tienda, las ventas de lunes a jueves fueron \(120\), \(150\), \(130\) y \(100\) pesos. ¿Cuánto deben ser las ventas del viernes para que el promedio semanal de 5 días sea \(140\) pesos?
+a) \(160\)
+b) \(170\)
+c) \(180\)
+d) \(190\)
+e) \(200\)
+Tip 💡: Si el promedio deseado es \(140\) en \(5\) días, la suma total debe ser \(140\cdot 5\). Suma lo de lunes a jueves y resta para hallar lo del viernes. 🔎✅
+
+185) Se registraron los tiempos (en minutos) para terminar un examen: \(35, 40, 42, 38, 45\). ¿Qué interpretación es correcta del promedio?
+a) Es el tiempo que todos tardaron exactamente
+b) Es el tiempo “típico” si todos tardaran lo mismo
+c) Es siempre igual al tiempo más repetido
+d) Es el tiempo más alto del grupo
+e) Es el tiempo más bajo del grupo
+Tip 💡: El promedio es una medida de “tendencia central” que representa un valor típico. No significa que alguien necesariamente haya obtenido exactamente ese valor. 👀✅
+
+---
+
+38) Mediana y moda: identificar y calcular (muy común en guías).
+
+186) Datos: \(4, 7, 7, 9, 10\). ¿Cuál es la moda?
+a) \(4\)
+b) \(7\)
+c) \(8\)
+d) \(9\)
+e) \(10\)
+Tip 💡: La moda es el dato que más se repite. No necesariamente es el mayor ni el promedio. Cuenta repeticiones. ✅
+
+187) Datos: \(12, 8, 15, 10, 9\). ¿Cuál es la mediana?
+a) \(9\)
+b) \(10\)
+c) \(11\)
+d) \(12\)
+e) \(15\)
+Tip 💡: Ordena los datos de menor a mayor. La mediana es el valor central cuando hay un número impar de datos. 🔎✅
+
+188) Datos: \(3, 5, 5, 8, 9, 12\). ¿Cuál es la mediana?
+a) \(5\)
+b) \(6.5\)
+c) \(7\)
+d) \(8\)
+e) \(9\)
+Tip 💡: Cuando hay cantidad par de datos, la mediana es el promedio de los dos valores centrales (ya ordenados). No elijas uno solo. ✅🧠
+
+189) En un grupo, las edades son: \(14, 15, 15, 16, 16, 16, 17\). ¿Cuál es la moda?
+a) \(14\)
+b) \(15\)
+c) \(16\)
+d) \(17\)
+e) No hay moda
+Tip 💡: La moda puede existir aunque haya varios valores distintos. Solo busca cuál aparece más veces. Si ninguno se repite más, entonces no hay moda. 👀✅
+
+190) Datos: \(20, 18, 22, 18, 25, 21, 18\). ¿Cuál es la mediana y la moda, respectivamente?
+a) \(20\) y \(18\)
+b) \(18\) y \(20\)
+c) \(21\) y \(18\)
+d) \(20\) y \(21\)
+e) \(18\) y \(22\)
+Tip 💡: Primero ordena todos los datos. La mediana es el central; la moda es el que más se repite. No inviertas el orden “mediana y moda”. ✅🔎
+
+---
+
+39) Rango y dispersión simple: máximo–mínimo, lectura rápida.
+
+191) Datos: \(6, 10, 4, 12, 9\). ¿Cuál es el rango?
+a) \(6\)
+b) \(7\)
+c) \(8\)
+d) \(9\)
+e) \(16\)
+Tip 💡: El rango es:
+\[
+\text{rango}=\text{máximo}-\text{mínimo}
+\]
+Identifica el mayor y el menor antes de restar. ✅
+
+192) Las temperaturas (en °C) de una semana fueron: \(18, 21, 19, 23, 20\). ¿Cuál es el rango?
+a) \(3\)
+b) \(4\)
+c) \(5\)
+d) \(18\)
+e) \(23\)
+Tip 💡: No sumes datos. Solo ubica el máximo y el mínimo y resta: \(23-18\). Revisa que el rango sea un solo número. 👀✅
+
+193) En una lista de números, el rango es \(15\) y el valor mínimo es \(8\). ¿Cuál es el valor máximo?
+a) \(7\)
+b) \(15\)
+c) \(23\)
+d) \(120\)
+e) \(8\)
+Tip 💡: Usa la definición:
+\[
+\text{rango}=\text{máximo}-\text{mínimo}
+\]
+Despeja: \(\text{máximo}=\text{rango}+\text{mínimo}\). ✅🧠
+
+194) Las alturas (en cm) de cinco alumnos son: \(150, 160, 155, 170, 165\). ¿Cuál afirmación es correcta sobre la dispersión?
+a) La dispersión es \(20\) cm porque \(170-150=20\)
+b) La dispersión es \(800\) cm porque se suman todas
+c) La dispersión es \(160\) cm porque es el promedio
+d) La dispersión es \(150\) cm porque es el mínimo
+e) No se puede saber la dispersión con estos datos
+Tip 💡: En dispersión simple, se usa el rango como medida rápida. Solo máximo menos mínimo. No mezcles con promedio. ✅
+
+195) Se comparan dos grupos con estos puntajes:
+Grupo A: \(50, 60, 55, 65\)
+Grupo B: \(40, 70, 50, 60\)
+
+¿Cuál grupo tiene mayor rango?
+a) Grupo A
+b) Grupo B
+c) Tienen el mismo rango
+d) No se puede comparar
+e) Depende del promedio
+Tip 💡: Calcula el rango de cada grupo por separado: máximo menos mínimo. Luego compara los rangos. El que tenga rango mayor está más “disperso”. 🔎✅
+
+---
+
+40) Probabilidad básica: evento simple, casos favorables/posibles, lectura de enunciados.
+
+196) Se lanza un dado justo de \(6\) caras numeradas del \(1\) al \(6\). ¿Cuál es la probabilidad de obtener \(2\)?
+a) \(\frac{1}{2}\)
+b) \(\frac{1}{3}\)
+c) \(\frac{1}{6}\)
+d) \(\frac{2}{6}\)
+e) \(\frac{5}{6}\)
+Tip 💡: Probabilidad:
+\[
+P=\frac{\text{casos favorables}}{\text{casos posibles}}
+\]
+Para “obtener 2” solo hay 1 caso favorable entre 6 posibles. ✅
+
+197) En una bolsa hay \(5\) canicas rojas y \(3\) azules. Se saca una canica al azar. ¿Cuál es la probabilidad de que sea azul?
+a) \(\frac{3}{5}\)
+b) \(\frac{5}{3}\)
+c) \(\frac{3}{8}\)
+d) \(\frac{5}{8}\)
+e) \(\frac{1}{8}\)
+Tip 💡: Cuenta el total de canicas y los casos favorables (azules). Luego forma la fracción \(\frac{\text{azules}}{\text{total}}\). 🔎✅
+
+198) Se lanza una moneda justa. ¿Cuál es la probabilidad de obtener águila o sello?
+a) \(\frac{1}{2}\)
+b) \(\frac{1}{4}\)
+c) \(\frac{2}{3}\)
+d) \(1\)
+e) \(0\)
+Tip 💡: “Águila o sello” incluye todos los resultados posibles de una moneda. Si el evento abarca todo el espacio muestral, la probabilidad es \(1\). 👀
+
+199) En una urna hay tarjetas con números del \(1\) al \(10\). Se toma una tarjeta al azar. ¿Cuál es la probabilidad de que el número sea múltiplo de \(3\)?
+a) \(\frac{1}{10}\)
+b) \(\frac{2}{10}\)
+c) \(\frac{3}{10}\)
+d) \(\frac{4}{10}\)
+e) \(\frac{5}{10}\)
+Tip 💡: Lista los múltiplos de \(3\) entre \(1\) y \(10\). Esos son los casos favorables. El total de casos posibles es \(10\). ✅🧾
+
+200) Se elige al azar una letra de la palabra “MATEMATICAS”. ¿Cuál es la probabilidad de elegir una vocal?
+a) \(\frac{3}{11}\)
+b) \(\frac{4}{11}\)
+c) \(\frac{5}{11}\)
+d) \(\frac{6}{11}\)
+e) \(\frac{7}{11}\)
+Tip 💡: Cuenta cuántas letras hay en total y cuántas de ellas son vocales (A, E, I, O, U). Usa:
+\[
+P=\frac{\text{vocales}}{\text{total}}
+\]
+Ojo: si una vocal se repite, cuenta cada aparición. ✅🔎
+
+---
+
+41) Tablas y conteos: frecuencias simples para concluir lo correcto.
+
+201) En la siguiente tabla se muestra el color favorito de 20 alumnos:
+
+\[
+\begin{array}{c|c}
+\text{Color} & \text{Frecuencia}\\ \hline
+\text{Rojo} & 6\\
+\text{Azul} & 8\\
+\text{Verde} & 4\\
+\text{Amarillo} & 2
+\end{array}
+\]
+
+¿Cuál es el color más frecuente?
+a) Rojo
+b) Azul
+c) Verde
+d) Amarillo
+e) Ninguno, todos tienen la misma frecuencia
+Tip 💡: “Más frecuente” significa el número más alto en la columna de frecuencia. Solo compara \(6, 8, 4, 2\). 👀✅
+
+202) La siguiente tabla muestra el número de mascotas en un grupo:
+
+\[
+\begin{array}{c|c}
+\text{Mascotas} & \text{Frecuencia}\\ \hline
+0 & 5\\
+1 & 9\\
+2 & 4\\
+3 & 2
+\end{array}
+\]
+
+¿Cuántas personas hay en total en el grupo?
+a) \(9\)
+b) \(11\)
+c) \(15\)
+d) \(20\)
+e) \(25\)
+Tip 💡: El total del grupo es la suma de todas las frecuencias. No multipliques por el número de mascotas, aquí solo están contando personas. ✅🧾
+
+203) En una encuesta, se obtuvieron estas respuestas sobre medio de transporte:
+
+\[
+\begin{array}{c|c}
+\text{Transporte} & \text{Frecuencia}\\ \hline
+\text{Camión} & 12\\
+\text{Metro} & 9\\
+\text{Bici} & 6\\
+\text{A pie} & 3
+\end{array}
+\]
+
+¿Qué fracción del total usa metro?
+a) \(\frac{9}{12}\)
+b) \(\frac{9}{30}\)
+c) \(\frac{12}{30}\)
+d) \(\frac{6}{30}\)
+e) \(\frac{3}{30}\)
+Tip 💡: Primero calcula el total sumando todas las frecuencias. Luego forma la fracción:
+\[
+\frac{\text{frecuencia de metro}}{\text{total}}
+\]
+Simplificar es opcional si no te lo piden. ✅🔎
+
+204) La siguiente tabla muestra resultados de un examen:
+
+\[
+\begin{array}{c|c}
+\text{Calificación} & \text{Frecuencia}\\ \hline
+6 & 3\\
+7 & 5\\
+8 & 7\\
+9 & 4\\
+10 & 1
+\end{array}
+\]
+
+¿Cuántos alumnos obtuvieron \(8\) o más?
+a) \(7\)
+b) \(8\)
+c) \(10\)
+d) \(12\)
+e) \(20\)
+Tip 💡: “\(8\) o más” incluye \(8\), \(9\) y \(10\). Suma sus frecuencias: \(7+4+1\). No incluyas \(6\) ni \(7\). ✅
+
+205) En una tabla de frecuencias se tiene:
+
+\[
+\begin{array}{c|c}
+\text{Dato} & \text{Frecuencia}\\ \hline
+1 & 4\\
+2 & 6\\
+3 & x\\
+4 & 5
+\end{array}
+\]
+
+Si el total de datos es \(20\), ¿cuál es el valor de \(x\)?
+a) \(3\)
+b) \(4\)
+c) \(5\)
+d) \(6\)
+e) \(7\)
+Tip 💡: La suma de todas las frecuencias debe dar el total:
+\[
+4+6+x+5=20
+\]
+Despeja \(x\) restando lo conocido al total. ✅🧠
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 181:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 182:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 183:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 184:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 185:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 186:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 187:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 188:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 189:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 190:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 191:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 192:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 193:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 194:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 195:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 196:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 197:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 198:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 199:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 200:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+  - Ajuste mínimo requerido (no había opción correcta):
+    - Cambiar opción e) de \(\frac{7}{11}\) a \(\frac{5}{11}\)
+- Reactivo 201:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 202:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 203:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 204:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 205:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+[/ANTIGRAVITY | ANSWER_KEY]

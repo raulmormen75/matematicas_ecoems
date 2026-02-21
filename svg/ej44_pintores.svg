@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" fill="none">
+  <rect width="300" height="120" rx="10" fill="#f5f5f5"/>
+  <rect x="30" y="30" width="80" height="60" fill="#ffca28" rx="4"/>
+  <text x="70" y="65" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">4 Pintores</text>
+  
+  <path d="M130,60 L170,60" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <circle cx="220" cy="60" r="25" fill="none" stroke="#42a5f5" stroke-width="4"/>
+  <line x1="220" y1="60" x2="220" y2="45" stroke="#333" stroke-width="2"/>
+  <line x1="220" y1="60" x2="230" y2="60" stroke="#333" stroke-width="2"/>
+  <text x="220" y="105" font-family="sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">6 horas</text>
+  
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#333"/>
+    </marker>
+  </defs>
+</svg>

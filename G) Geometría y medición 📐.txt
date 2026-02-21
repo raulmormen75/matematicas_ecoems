@@ -1,0 +1,669 @@
+G) Geometría y medición 📐
+
+---
+
+
+28) Rectas y ángulos: opuestos por el vértice, suplementarios, correspondientes, alternos internos.
+
+136) Dos rectas se cruzan formando ángulos opuestos por el vértice. Si uno de los ángulos mide \(38^\circ\), ¿cuánto mide su ángulo opuesto por el vértice?
+a) \(38^\circ\)
+b) \(52^\circ\)
+c) \(90^\circ\)
+d) \(142^\circ\)
+e) \(180^\circ\)
+Tip 💡: Los ángulos opuestos por el vértice siempre miden lo mismo. Identifica el que está “enfrente” del dado. ✅
+
+137) Un par de ángulos suplementarios suman \(180^\circ\). Si uno mide \(115^\circ\), ¿cuánto mide el otro?
+a) \(55^\circ\)
+b) \(65^\circ\)
+c) \(75^\circ\)
+d) \(115^\circ\)
+e) \(295^\circ\)
+Tip 💡: “Suplementarios” significa que al sumarlos da \(180^\circ\). Resta \(180^\circ-115^\circ\). Revisa que el resultado sea menor que \(180^\circ\). 📏
+
+138) Dos rectas paralelas son cortadas por una transversal. Un ángulo correspondiente mide \(72^\circ\). ¿Cuánto mide el ángulo correspondiente en la otra intersección?
+a) \(72^\circ\)
+b) \(108^\circ\)
+c) \(36^\circ\)
+d) \(144^\circ\)
+e) \(180^\circ\)
+Tip 💡: En rectas paralelas, los ángulos correspondientes son congruentes (miden igual). No los confundas con los que están “al lado” (esos suelen ser suplementarios). 👀
+
+139) Dos rectas paralelas son cortadas por una transversal. Un ángulo alterno interno mide \(47^\circ\). ¿Cuánto mide el ángulo alterno interno correspondiente?
+a) \(47^\circ\)
+b) \(133^\circ\)
+c) \(94^\circ\)
+d) \(86^\circ\)
+e) \(180^\circ\)
+Tip 💡: Los alternos internos, cuando las rectas son paralelas, también miden igual. Ubícalos: están dentro de las paralelas y en lados opuestos de la transversal. ✅🔎
+
+140) Dos rectas paralelas son cortadas por una transversal. Un ángulo interior del mismo lado de la transversal mide \(x\) y el otro mide \(3x+20\). ¿Cuál es el valor de \(x\)?
+a) \(20\)
+b) \(30\)
+c) \(40\)
+d) \(50\)
+e) \(60\)
+Tip 💡: Los ángulos interiores del mismo lado son suplementarios, así que:
+\[
+x+(3x+20)=180
+\]
+Resuelve la ecuación y luego revisa si los ángulos quedan razonables (menores que \(180^\circ\)). ✅📏
+
+---
+
+29) Triángulos: suma de ángulos, tipos, isósceles, rectángulo; ángulos faltantes.
+
+141) En un triángulo, dos ángulos miden \(50^\circ\) y \(60^\circ\). ¿Cuánto mide el tercer ángulo?
+a) \(60^\circ\)
+b) \(70^\circ\)
+c) \(80^\circ\)
+d) \(90^\circ\)
+e) \(110^\circ\)
+Tip 💡: La suma de los ángulos interiores de cualquier triángulo es \(180^\circ\). Suma los dos que tienes y réstalos a \(180^\circ\). ✅
+
+142) Un triángulo isósceles tiene dos ángulos iguales. Si el ángulo diferente mide \(40^\circ\), ¿cuánto mide cada uno de los ángulos iguales?
+a) \(40^\circ\)
+b) \(50^\circ\)
+c) \(60^\circ\)
+d) \(70^\circ\)
+e) \(80^\circ\)
+Tip 💡: En isósceles, los dos ángulos de la base son iguales. Si llamas \(x\) a cada uno, entonces \(x+x+40=180\). Resuelve \(2x=140\). 🔎✅
+
+143) ¿Qué tipo de triángulo tiene ángulos \(30^\circ\), \(60^\circ\) y \(90^\circ\)?
+a) Equilátero
+b) Isósceles
+c) Rectángulo
+d) Obtusángulo
+e) Acutángulo
+Tip 💡: Un triángulo rectángulo tiene un ángulo de \(90^\circ\). Un obtusángulo tiene uno mayor que \(90^\circ\). Un acutángulo tiene todos menores que \(90^\circ\). 👀
+
+144) En un triángulo rectángulo, un ángulo agudo mide \(35^\circ\). ¿Cuánto mide el otro ángulo agudo?
+a) \(35^\circ\)
+b) \(45^\circ\)
+c) \(55^\circ\)
+d) \(65^\circ\)
+e) \(145^\circ\)
+Tip 💡: En un triángulo rectángulo hay un ángulo de \(90^\circ\). Los otros dos deben sumar \(90^\circ\). Entonces \(90-35\). ✅📏
+
+145) En un triángulo, los ángulos miden \((x+10)^\circ\), \((2x-5)^\circ\) y \((3x)^\circ\). ¿Cuál es el valor de \(x\)?
+a) \(20\)
+b) \(25\)
+c) \(30\)
+d) \(35\)
+e) \(40\)
+Tip 💡: Usa la suma de ángulos interiores:
+\[
+(x+10)+(2x-5)+3x=180
+\]
+Junta términos semejantes y despeja \(x\). Luego revisa que los ángulos queden positivos. ✅🔎
+
+---
+
+30) Polígonos: perímetro, ángulos en polígonos comunes (nivel secundaria).
+
+146) Un rectángulo mide \(12\) cm de largo y \(7\) cm de ancho. ¿Cuál es su perímetro?
+a) \(19\) cm
+b) \(38\) cm
+c) \(42\) cm
+d) \(84\) cm
+e) \(24\) cm
+Tip 💡: El perímetro es la suma de todos los lados. En un rectángulo: 
+\[
+P=2(\text{largo}+\text{ancho})
+\]
+Sustituye y calcula. ✅
+
+147) Un pentágono regular tiene lado de \(6\) cm. ¿Cuál es su perímetro?
+a) \(24\) cm
+b) \(30\) cm
+c) \(36\) cm
+d) \(42\) cm
+e) \(60\) cm
+Tip 💡: En un polígono regular, todos los lados son iguales. Perímetro = (número de lados) \(\times\) (medida de un lado). 🔍
+
+148) ¿Cuánto suman los ángulos interiores de un hexágono?
+a) \(180^\circ\)
+b) \(360^\circ\)
+c) \(540^\circ\)
+d) \(720^\circ\)
+e) \(900^\circ\)
+Tip 💡: La suma de ángulos interiores de un polígono de \(n\) lados es:
+\[
+S=(n-2)\cdot 180^\circ
+\]
+Aquí \(n=6\). ✅
+
+149) Un octágono regular tiene todos sus ángulos interiores iguales. ¿Cuánto mide cada ángulo interior?
+a) \(120^\circ\)
+b) \(135^\circ\)
+c) \(140^\circ\)
+d) \(150^\circ\)
+e) \(160^\circ\)
+Tip 💡: Primero calcula la suma de ángulos interiores con:
+\[
+S=(n-2)\cdot 180^\circ
+\]
+Luego divide entre \(n\) porque es regular. Revisa que el resultado sea mayor que \(90^\circ\). ✅📏
+
+150) Un terreno tiene forma de polígono con lados de \(8\) m, \(11\) m, \(7\) m, \(10\) m y \(14\) m. ¿Cuál es el perímetro?
+a) \(40\) m
+b) \(45\) m
+c) \(50\) m
+d) \(55\) m
+e) \(60\) m
+Tip 💡: El perímetro es la suma de todos los lados:
+\[
+P=8+11+7+10+14
+\]
+Suma con orden para no perderte. ✅
+
+---
+
+31) Circunferencia y círculo: radio, diámetro, \(\pi\), perímetro y área.
+
+151) Un círculo tiene radio de \(6\) cm. ¿Cuál es su diámetro?
+a) \(3\) cm
+b) \(6\) cm
+c) \(9\) cm
+d) \(12\) cm
+e) \(36\) cm
+Tip 💡: El diámetro es el doble del radio:
+\[
+d=2r
+\]
+Sustituye \(r=6\). ✅
+
+152) Un círculo tiene diámetro de \(10\) m. ¿Cuál es su radio?
+a) \(2\) m
+b) \(5\) m
+c) \(10\) m
+d) \(20\) m
+e) \(25\) m
+Tip 💡: El radio es la mitad del diámetro:
+\[
+r=\frac{d}{2}
+\]
+Divide entre \(2\) y revisa unidades. ✅
+
+153) Calcula la longitud de la circunferencia de un círculo con radio \(7\) cm. Usa \(\pi=3.14\).
+a) \(21.98\) cm
+b) \(43.96\) cm
+c) \(49.00\) cm
+d) \(153.86\) cm
+e) \(307.72\) cm
+Tip 💡: La longitud de circunferencia es:
+\[
+C=2\pi r
+\]
+Sustituye \(r=7\) y usa \(\pi=3.14\). Multiplica con calma. 🔎✅
+
+154) Calcula el área de un círculo con radio \(5\) m. Usa \(\pi=3.14\).
+a) \(15.7\) m\(^2\)
+b) \(31.4\) m\(^2\)
+c) \(78.5\) m\(^2\)
+d) \(157.0\) m\(^2\)
+e) \(314.0\) m\(^2\)
+Tip 💡: El área del círculo es:
+\[
+A=\pi r^2
+\]
+Eleva \(r\) al cuadrado y luego multiplica por \(\pi\). Revisa que el área quede en m\(^2\). ✅
+
+155) Una rueda tiene radio \(14\) cm. ¿Cuántos centímetros recorre en una vuelta completa (longitud de la circunferencia)? Usa \(\pi=3.14\).
+a) \(43.96\) cm
+b) \(87.92\) cm
+c) \(153.86\) cm
+d) \(175.84\) cm
+e) \(615.44\) cm
+Tip 💡: Una vuelta completa es la longitud de la circunferencia:
+\[
+C=2\pi r
+\]
+Sustituye \(r=14\), usa \(\pi=3.14\) y cuida la multiplicación. ✅🧾
+
+---
+
+32) Áreas: triángulo, rectángulo, paralelogramo, trapecio, círculo; figuras compuestas.
+
+156) Un rectángulo tiene base \(9\) cm y altura \(4\) cm. ¿Cuál es su área?
+a) \(13\) cm\(^2\)
+b) \(18\) cm\(^2\)
+c) \(36\) cm\(^2\)
+d) \(72\) cm\(^2\)
+e) \(144\) cm\(^2\)
+Tip 💡: Área de rectángulo:
+\[
+A=b\cdot h
+\]
+Multiplica base por altura y revisa que quede en cm\(^2\). ✅
+
+157) Un triángulo tiene base \(12\) m y altura \(5\) m. ¿Cuál es su área?
+a) \(17\) m\(^2\)
+b) \(30\) m\(^2\)
+c) \(60\) m\(^2\)
+d) \(120\) m\(^2\)
+e) \(150\) m\(^2\)
+Tip 💡: Área de triángulo:
+\[
+A=\frac{b\cdot h}{2}
+\]
+Multiplica y luego divide entre \(2\). ✅
+
+158) Un paralelogramo tiene base \(10\) cm y altura \(7\) cm. ¿Cuál es su área?
+a) \(17\) cm\(^2\)
+b) \(35\) cm\(^2\)
+c) \(70\) cm\(^2\)
+d) \(140\) cm\(^2\)
+e) \(700\) cm\(^2\)
+Tip 💡: En un paralelogramo, el área también es:
+\[
+A=b\cdot h
+\]
+La altura es la perpendicular a la base, no el lado inclinado. 👀✅
+
+159) Un trapecio tiene bases \(B=14\) cm y \(b=8\) cm, y altura \(h=6\) cm. ¿Cuál es su área?
+a) \(44\) cm\(^2\)
+b) \(55\) cm\(^2\)
+c) \(66\) cm\(^2\)
+d) \(72\) cm\(^2\)
+e) \(132\) cm\(^2\)
+Tip 💡: Área de trapecio:
+\[
+A=\frac{(B+b)h}{2}
+\]
+Suma las bases, multiplica por la altura y divide entre \(2\). ✅
+
+160) Una figura compuesta está formada por un rectángulo de \(8\) cm por \(5\) cm y, encima, un triángulo con base \(8\) cm y altura \(3\) cm (comparten la misma base de \(8\) cm). ¿Cuál es el área total?
+a) \(40\) cm\(^2\)
+b) \(44\) cm\(^2\)
+c) \(48\) cm\(^2\)
+d) \(52\) cm\(^2\)
+e) \(56\) cm\(^2\)
+Tip 💡: Separa la figura en partes simples: área del rectángulo \(A=b\cdot h\) y área del triángulo \(A=\frac{b\cdot h}{2}\). Luego suma ambas áreas. ✅🧩
+
+---
+
+33) Volúmenes: cubo, prisma rectangular, cilindro (y lectura de unidades).
+
+161) Un cubo tiene arista de \(4\) cm. ¿Cuál es su volumen?
+a) \(12\) cm\(^3\)
+b) \(16\) cm\(^3\)
+c) \(48\) cm\(^3\)
+d) \(64\) cm\(^3\)
+e) \(128\) cm\(^3\)
+Tip 💡: En un cubo:
+\[
+V=a^3
+\]
+Multiplica \(a\cdot a\cdot a\). La unidad del volumen siempre queda “cúbica” (cm\(^3\)). ✅
+
+162) Un prisma rectangular mide \(6\) cm de largo, \(3\) cm de ancho y \(5\) cm de alto. ¿Cuál es su volumen?
+a) \(14\) cm\(^3\)
+b) \(30\) cm\(^3\)
+c) \(60\) cm\(^3\)
+d) \(90\) cm\(^3\)
+e) \(180\) cm\(^3\)
+Tip 💡: Para un prisma rectangular:
+\[
+V=l\cdot w\cdot h
+\]
+Multiplica las tres dimensiones y revisa que quede en cm\(^3\). ✅🧾
+
+163) Un cilindro tiene radio \(3\) cm y altura \(10\) cm. Usa \(\pi=3.14\). ¿Cuál es su volumen?
+a) \(28.26\) cm\(^3\)
+b) \(94.20\) cm\(^3\)
+c) \(282.60\) cm\(^3\)
+d) \(314.00\) cm\(^3\)
+e) \(942.00\) cm\(^3\)
+Tip 💡: Volumen del cilindro:
+\[
+V=\pi r^2 h
+\]
+Primero calcula \(r^2\), luego multiplica por \(h\) y al final por \(\pi\). ✅
+
+164) Un prisma rectangular tiene volumen \(240\) cm\(^3\). Si su base mide \(8\) cm por \(5\) cm, ¿cuál es su altura?
+a) \(4\) cm
+b) \(5\) cm
+c) \(6\) cm
+d) \(8\) cm
+e) \(10\) cm
+Tip 💡: En un prisma:
+\[
+V=A_{\text{base}}\cdot h
+\]
+Calcula \(A_{\text{base}}=8\cdot 5\) y luego despeja \(h=\frac{V}{A_{\text{base}}}\). ✅🔎
+
+165) Un cilindro tiene diámetro \(8\) m y altura \(5\) m. Usa \(\pi=3.14\). ¿Cuál es su volumen?
+a) \(125.60\) m\(^3\)
+b) \(251.20\) m\(^3\)
+c) \(502.40\) m\(^3\)
+d) \(628.00\) m\(^3\)
+e) \(1\,256.00\) m\(^3\)
+Tip 💡: Primero convierte diámetro a radio: \(r=\frac{8}{2}=4\). Luego usa:
+\[
+V=\pi r^2 h
+\]
+Cuida unidades: si todo está en metros, el volumen queda en m\(^3\). ✅
+
+---
+
+34) Teorema de Pitágoras: \((a^2+b^2=c^2)\) en triángulo rectángulo.
+
+166) En un triángulo rectángulo, los catetos miden \(3\) cm y \(4\) cm. ¿Cuánto mide la hipotenusa?
+a) \(5\) cm
+b) \(6\) cm
+c) \(7\) cm
+d) \(8\) cm
+e) \(9\) cm
+Tip 💡: Aplica:
+\[
+a^2+b^2=c^2
+\]
+Sustituye \(a=3\), \(b=4\) y despeja \(c\) sacando raíz cuadrada. ✅
+
+167) En un triángulo rectángulo, la hipotenusa mide \(13\) m y un cateto mide \(5\) m. ¿Cuánto mide el otro cateto?
+a) \(8\) m
+b) \(10\) m
+c) \(12\) m
+d) \(18\) m
+e) \(26\) m
+Tip 💡: Si conoces \(c\) y un cateto, despeja el otro:
+\[
+b^2=c^2-a^2
+\]
+Después saca raíz cuadrada. Cuida no olvidar elevar al cuadrado antes de restar. 🔎✅
+
+168) Una escalera está apoyada en una pared. La base está a \(6\) m de la pared y la escalera llega a \(10\) m de altura. ¿Cuánto mide la escalera?
+a) \(12\) m
+b) \(14\) m
+c) \(16\) m
+d) \(\sqrt{136}\) m
+e) \(\sqrt{64}\) m
+Tip 💡: Forma un triángulo rectángulo: distancia al muro y altura son catetos; la escalera es la hipotenusa. Usa:
+\[
+c=\sqrt{a^2+b^2}
+\]
+✅
+
+169) Un rectángulo mide \(9\) cm por \(12\) cm. ¿Cuánto mide su diagonal?
+a) \(15\) cm
+b) \(18\) cm
+c) \(21\) cm
+d) \(3\sqrt{5}\) cm
+e) \(6\sqrt{5}\) cm
+Tip 💡: La diagonal del rectángulo es la hipotenusa de un triángulo rectángulo con catetos \(9\) y \(12\):
+\[
+d=\sqrt{9^2+12^2}
+\]
+Simplifica con calma. ✅📏
+
+170) Un dron se desplaza \(x\) metros al este y \(24\) metros al norte, formando un triángulo rectángulo con distancia total \(25\) metros. ¿Cuál es \(x\)?
+a) \(5\)
+b) \(7\)
+c) \(10\)
+d) \(11\)
+e) \(15\)
+Tip 💡: Identifica la hipotenusa \(c=25\) y un cateto \(b=24\). Plantea:
+\[
+x^2+24^2=25^2
+\]
+Despeja \(x^2\) y luego saca raíz. Verifica que \(x\) sea menor que \(25\). ✅🔎
+
+---
+
+35) Semejanza y escalas (si aplica): proporción en figuras, ampliaciones y reducciones.
+
+171) En un mapa con escala \(1:100\,000\), \(1\) cm representa \(100\,000\) cm reales. Si dos pueblos están a \(3\) cm en el mapa, ¿cuál es la distancia real en km?
+a) \(0.3\) km
+b) \(3\) km
+c) \(30\) km
+d) \(300\) km
+e) \(3\,000\) km
+Tip 💡: Multiplica la distancia del mapa por \(100\,000\) para pasar a cm reales y luego convierte a km. Recuerda: \(100\,000\) cm \(=1\) km. ✅
+
+172) Dos triángulos son semejantes. En el primero, un lado mide \(6\) cm y el correspondiente en el segundo mide \(9\) cm. ¿Cuál es el factor de escala del primero al segundo?
+a) \(\frac{2}{3}\)
+b) \(\frac{3}{2}\)
+c) \(\frac{6}{9}\)
+d) \(\frac{9}{6}\)
+e) \(6\)
+Tip 💡: El factor de escala “del primero al segundo” se obtiene como:
+\[
+k=\frac{\text{lado en el segundo}}{\text{lado correspondiente en el primero}}
+\]
+Simplifica la fracción si es posible. 🔎
+
+173) Una fotografía se amplía de modo que cada medida se multiplica por \(1.5\). Si el ancho original es \(12\) cm, ¿cuál será el ancho ampliado?
+a) \(8\) cm
+b) \(12\) cm
+c) \(14\) cm
+d) \(18\) cm
+e) \(24\) cm
+Tip 💡: “Ampliar” significa multiplicar por el factor. Calcula \(12\times 1.5\). Verifica que el resultado sea mayor que \(12\). ✅
+
+174) Dos rectángulos son semejantes. El primero mide \(8\) cm por \(5\) cm. El segundo tiene el lado correspondiente a \(8\) cm igual a \(20\) cm. ¿Cuánto mide el lado correspondiente a \(5\) cm?
+a) \(10\) cm
+b) \(12.5\) cm
+c) \(15\) cm
+d) \(18\) cm
+e) \(25\) cm
+Tip 💡: Primero halla el factor de escala:
+\[
+k=\frac{20}{8}
+\]
+Luego multiplica el otro lado: \(5k\). Cuida decimales. ✅🧾
+
+175) Un modelo a escala de un edificio mide \(45\) cm de altura. La escala es \(1:200\). ¿Cuál es la altura real del edificio en metros?
+a) \(0.225\) m
+b) \(2.25\) m
+c) \(9\) m
+d) \(90\) m
+e) \(900\) m
+Tip 💡: Escala \(1:200\) significa que la medida real es \(200\) veces la del modelo. Multiplica \(45\) cm por \(200\) y luego convierte de cm a m dividiendo entre \(100\). ✅🔍
+
+---
+
+36) Trigonometría básica (si aparece): razones en triángulo rectángulo \((\sin)\), \((\cos)\), \((\tan)\) para calcular lados o ángulos simples.
+
+176) En un triángulo rectángulo respecto al ángulo \(\theta\), el cateto opuesto mide \(3\) y la hipotenusa mide \(5\). ¿Cuál es \(\sin(\theta)\)?
+a) \(\frac{5}{3}\)
+b) \(\frac{3}{5}\)
+c) \(\frac{3}{2}\)
+d) \(\frac{2}{3}\)
+e) \(\frac{5}{2}\)
+Tip 💡: Por definición:
+\[
+\sin(\theta)=\frac{\text{opuesto}}{\text{hipotenusa}}
+\]
+Identifica correctamente qué lado es el opuesto respecto a \(\theta\). ✅
+
+177) En un triángulo rectángulo respecto a \(\theta\), el cateto adyacente mide \(4\) y la hipotenusa mide \(5\). ¿Cuál es \(\cos(\theta)\)?
+a) \(\frac{5}{4}\)
+b) \(\frac{4}{5}\)
+c) \(\frac{1}{5}\)
+d) \(\frac{5}{1}\)
+e) \(\frac{9}{5}\)
+Tip 💡: Por definición:
+\[
+\cos(\theta)=\frac{\text{adyacente}}{\text{hipotenusa}}
+\]
+No confundas adyacente con opuesto. 👀
+
+178) En un triángulo rectángulo, respecto al ángulo \(\theta\), el cateto opuesto mide \(6\) y el adyacente mide \(8\). ¿Cuál es \(\tan(\theta)\)?
+a) \(\frac{8}{6}\)
+b) \(\frac{6}{8}\)
+c) \(\frac{6}{14}\)
+d) \(\frac{14}{6}\)
+e) \(\frac{8}{14}\)
+Tip 💡: Por definición:
+\[
+\tan(\theta)=\frac{\text{opuesto}}{\text{adyacente}}
+\]
+Simplifica la fracción al final si es posible. ✅🔎
+
+179) En un triángulo rectángulo, \(\sin(\theta)=\frac{3}{5}\) y la hipotenusa mide \(20\) cm. ¿Cuánto mide el cateto opuesto?
+a) \(8\) cm
+b) \(10\) cm
+c) \(12\) cm
+d) \(15\) cm
+e) \(25\) cm
+Tip 💡: Usa:
+\[
+\sin(\theta)=\frac{\text{opuesto}}{\text{hipotenusa}}
+\]
+Si la hipotenusa es \(20\), plantea \(\frac{\text{opuesto}}{20}=\frac{3}{5}\) y despeja. ✅🧾
+
+180) En un triángulo rectángulo, \(\cos(\theta)=\frac{4}{5}\) y el cateto adyacente mide \(16\) cm. ¿Cuánto mide la hipotenusa?
+a) \(12\) cm
+b) \(18\) cm
+c) \(20\) cm
+d) \(25\) cm
+e) \(32\) cm
+Tip 💡: Usa:
+\[
+\cos(\theta)=\frac{\text{adyacente}}{\text{hipotenusa}}
+\]
+Plantea \(\frac{16}{\text{hipotenusa}}=\frac{4}{5}\) y despeja. Revisa que la hipotenusa sea mayor que \(16\). ✅🔍
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 136:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 137:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 138:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 139:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 140:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 141:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 142:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 143:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 144:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 145:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 146:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 147:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 148:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 149:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 150:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 151:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 152:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 153:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 154:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 155:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 156:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 157:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 158:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 159:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 160:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 161:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 162:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 163:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 164:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 165:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 166:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 167:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 168:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 169:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 170:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 171:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 172:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 173:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 174:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 175:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 176:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 177:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 178:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 179:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 180:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+[/ANTIGRAVITY | ANSWER_KEY]

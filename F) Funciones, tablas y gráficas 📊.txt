@@ -1,0 +1,322 @@
+F) Funciones, tablas y gráficas 📊
+
+---
+
+24) Plano cartesiano: ubicar puntos \((x,y)\), lectura de coordenadas.
+
+116) ¿En qué cuadrante se encuentra el punto \(A(-3,\,4)\)?
+a) I
+b) II
+c) III
+d) IV
+e) En el eje \(y\)
+Tip 💡: Observa los signos: en el plano, \(x\) negativo va a la izquierda y \(y\) positivo va hacia arriba. Ubica mentalmente y decide el cuadrante. 👀
+
+117) ¿Cuál punto está sobre el eje \(x\)?
+a) \((0,5)\)
+b) \((-2,3)\)
+c) \((4,0)\)
+d) \((0,-7)\)
+e) \((1,1)\)
+Tip 💡: Los puntos sobre el eje \(x\) tienen \(y=0\). Solo revisa cuál opción cumple eso. ✅
+
+118) Un punto tiene coordenadas \((2,-5)\). ¿Qué enunciado es correcto?
+a) Está 2 unidades arriba y 5 a la derecha
+b) Está 2 unidades a la izquierda y 5 abajo
+c) Está 2 unidades a la derecha y 5 abajo
+d) Está 5 unidades a la derecha y 2 abajo
+e) Está sobre el eje \(y\)
+Tip 💡: El primer número es \(x\) (horizontal) y el segundo es \(y\) (vertical). Signo \(+\) es derecha o arriba; signo \(-\) es izquierda o abajo. 📌
+
+119) ¿Cuál es la coordenada del punto que está 6 unidades a la izquierda del origen y 1 unidad arriba?
+a) \((6,1)\)
+b) \((-6,1)\)
+c) \((6,-1)\)
+d) \((-1,6)\)
+e) \((1,-6)\)
+Tip 💡: “Izquierda” significa \(x\) negativo, “arriba” significa \(y\) positivo. Mantén el orden \((x,y)\). ✅
+
+120) Se dan los puntos \(P(3,-2)\) y \(Q(-3,2)\). ¿Cuál afirmación es verdadera?
+a) \(P\) y \(Q\) están en el mismo cuadrante
+b) \(P\) está en el cuadrante II
+c) \(Q\) está en el cuadrante IV
+d) \(P\) está en el cuadrante IV y \(Q\) en el cuadrante II
+e) Ambos están sobre los ejes
+Tip 💡: Determina cuadrantes con los signos de cada punto. Para \(P\), \(x\) es positivo y \(y\) negativo; para \(Q\), \(x\) es negativo y \(y\) positivo. Luego asigna cuadrantes. 🔎✅
+
+---
+
+25) Tablas de valores: completar, detectar patrón, relación entre variables.
+
+121) La tabla sigue la regla \(y=2x\). ¿Cuál es el valor de \(y\) cuando \(x=7\)?
+
+\[
+\begin{array}{c|c}
+x & y\\ \hline
+1 & 2\\
+3 & 6\\
+5 & 10\\
+7 & \,?
+\end{array}
+\]
+a) \(12\)
+b) \(13\)
+c) \(14\)
+d) \(15\)
+e) \(16\)
+Tip 💡: Identifica la regla en una pareja de valores. Si \(y=2x\), solo multiplica el valor de \(x\) por \(2\). ✅
+
+122) En la tabla, cada valor de \(y\) es \(3\) más que \(x\). ¿Qué número va en el espacio?
+
+\[
+\begin{array}{c|c}
+x & y\\ \hline
+2 & 5\\
+4 & 7\\
+6 & 9\\
+8 & \,?
+\end{array}
+\]
+a) \(10\)
+b) \(11\)
+c) \(12\)
+d) \(13\)
+e) \(14\)
+Tip 💡: Busca la relación entre columnas: ¿qué le haces a \(x\) para obtener \(y\)? Si es “sumar 3”, aplica lo mismo en la última fila. 🔎
+
+123) La tabla muestra una relación. ¿Cuál es la regla correcta?
+
+\[
+\begin{array}{c|c}
+x & y\\ \hline
+1 & 4\\
+2 & 7\\
+3 & 10\\
+4 & 13
+\end{array}
+\]
+a) \(y=3x\)
+b) \(y=x+3\)
+c) \(y=3x+1\)
+d) \(y=3x-1\)
+e) \(y=4x\)
+Tip 💡: Observa cuánto aumenta \(y\) cuando \(x\) aumenta en 1. Si el aumento es constante, prueba una regla lineal del tipo \(y=mx+b\). ✅
+
+124) Completa el valor faltante en la tabla que sigue la regla \(y=x^2\).
+
+\[
+\begin{array}{c|c}
+x & y\\ \hline
+1 & 1\\
+2 & 4\\
+3 & 9\\
+4 & \,?
+\end{array}
+\]
+a) \(12\)
+b) \(14\)
+c) \(15\)
+d) \(16\)
+e) \(18\)
+Tip 💡: Si \(y=x^2\), eleva \(x\) al cuadrado. Recuerda que \(4^2\) es \(4\times 4\). 🧠
+
+125) La tabla sigue un patrón. ¿Cuál es el valor de \(y\) cuando \(x=5\)?
+
+\[
+\begin{array}{c|c}
+x & y\\ \hline
+1 & 3\\
+2 & 6\\
+3 & 10\\
+4 & 15\\
+5 & \,?
+\end{array}
+\]
+a) \(18\)
+b) \(20\)
+c) \(21\)
+d) \(22\)
+e) \(25\)
+Tip 💡: Mira los aumentos en \(y\): no siempre son iguales. Calcula la diferencia entre valores consecutivos de \(y\) para detectar el patrón de crecimiento y aplicarlo al siguiente paso. 🔎✅
+
+---
+
+26) Gráficas sencillas: barras, líneas, pastel; máximos, mínimos, cambios, comparación.
+
+126) En una gráfica de barras se muestran las ventas (en piezas) de una tienda:
+
+Lunes: 12
+Martes: 18
+Miércoles: 15
+Jueves: 20
+Viernes: 17
+
+¿Cuál día tuvo la mayor venta?
+a) Lunes
+b) Martes
+c) Miércoles
+d) Jueves
+e) Viernes
+Tip 💡: “Mayor” significa el valor más grande. Revisa los números y ubica el máximo. No te distraigas con los días, solo compara cantidades. 👀
+
+127) En una gráfica de líneas, la temperatura (en °C) por hora fue:
+
+8:00 = 14
+10:00 = 16
+12:00 = 19
+14:00 = 18
+16:00 = 15
+
+¿En qué horario ocurrió la mayor temperatura?
+a) 8:00
+b) 10:00
+c) 12:00
+d) 14:00
+e) 16:00
+Tip 💡: Identifica el punto más alto (el valor numérico más grande). En una línea, el máximo es el “pico” de los datos. ✅
+
+128) Una gráfica circular (pastel) muestra el gasto mensual de una familia:
+Renta 40%, Comida 25%, Transporte 15%, Servicios 10%, Otros 10%.
+
+Si el gasto total es $8,000, ¿cuánto se gasta en comida?
+a) $1,200
+b) $1,500
+c) $2,000
+d) $2,500
+e) $3,200
+Tip 💡: En un pastel, cada porcentaje representa una parte del total. Calcula \(25\%\) de \(8000\) usando \(0.25\times 8000\). 🧾
+
+129) En una tabla (que representa una gráfica) se muestra el número de mensajes enviados por día:
+
+Lunes 30, Martes 25, Miércoles 40, Jueves 35, Viernes 20.
+
+¿Cuál fue el cambio de Miércoles a Viernes?
+a) Aumentó 20
+b) Aumentó 10
+c) Disminuyó 10
+d) Disminuyó 20
+e) No cambió
+Tip 💡: “Cambio de A a B” es \(B-A\). Sustituye valores: Viernes menos Miércoles. Revisa si da negativo o positivo para saber si subió o bajó. 🔎
+
+130) Una gráfica de barras muestra los puntajes de 5 equipos:
+A: 24, B: 18, C: 30, D: 27, E: 21.
+
+¿Cuál es la diferencia entre el puntaje máximo y el mínimo?
+a) \(6\)
+b) \(9\)
+c) \(10\)
+d) \(12\)
+e) \(14\)
+Tip 💡: Primero identifica el valor máximo y el mínimo. Luego calcula \( \text{máximo} - \text{mínimo} \). Eso mide la separación entre ambos. ✅📏
+
+---
+
+27) Relación lineal (si aplica): pendiente e intersección de forma básica (sin formalismo).
+
+131) La relación entre \(x\) y \(y\) está dada por \(y=2x+1\). ¿Cuál es el valor de \(y\) cuando \(x=3\)?
+a) \(5\)
+b) \(6\)
+c) \(7\)
+d) \(8\)
+e) \(9\)
+Tip 💡: Sustituye \(x\) en la expresión y respeta el orden: primero multiplica \(2\cdot x\) y luego suma \(1\). ✅
+
+132) En la regla \(y=mx+b\), ¿qué representa \(b\)?
+a) El número que multiplica a \(x\)
+b) El valor de \(y\) cuando \(x=0\)
+c) El valor de \(x\) cuando \(y=0\)
+d) El cambio de \(x\) cuando \(y\) aumenta
+e) El producto de \(m\) por \(x\)
+Tip 💡: Piensa qué pasa si sustituyes \(x=0\) en \(y=mx+b\). El término \(mx\) se hace \(0\), y queda solo \(b\). 👀
+
+133) Si \(y=3x-2\), ¿cuál par ordenado \((x,y)\) cumple la relación?
+a) \((1,1)\)
+b) \((2,2)\)
+c) \((0,2)\)
+d) \((3,7)\)
+e) \((-1,1)\)
+Tip 💡: Para verificar, sustituye el \(x\) del par en la fórmula y revisa si el \(y\) que sale coincide con el del par. Hazlo con calma, uno por uno. ✅🔎
+
+134) La relación es \(y=-x+4\). ¿En qué punto corta al eje \(y\)?
+a) \((4,0)\)
+b) \((0,4)\)
+c) \((-4,0)\)
+d) \((0,-4)\)
+e) \((4,4)\)
+Tip 💡: El corte con el eje \(y\) ocurre cuando \(x=0\). Sustituye \(x=0\) y obtén el valor de \(y\). Ese punto es \((0,y)\). ✅
+
+135) Una recta pasa por los puntos \(A(1,3)\) y \(B(5,11)\). ¿Cuál es el valor de \(\frac{\Delta y}{\Delta x}\) (cambio en \(y\) entre cambio en \(x\))?
+a) \(1\)
+b) \(2\)
+c) \(3\)
+d) \(4\)
+e) \(-2\)
+Tip 💡: Calcula el cambio: \(\Delta y=11-3\) y \(\Delta x=5-1\). Luego divide \(\frac{\Delta y}{\Delta x}\). Revisa que el signo tenga sentido con la dirección de la recta. ✅📉
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 116:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 117:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 118:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 119:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 120:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 121:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 122:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 123:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 124:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 125:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 126:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 127:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 128:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 129:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 130:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 131:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 132:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 133:
+  - Correcta: e
+  - Incorrectas: a, b, c, d
+- Reactivo 134:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 135:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+[/ANTIGRAVITY | ANSWER_KEY]

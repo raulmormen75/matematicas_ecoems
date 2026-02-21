@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120" fill="none">
+  <rect width="300" height="120" rx="10" fill="#f5f5f5"/>
+  
+  <rect x="15" y="25" width="70" height="25" rx="4" fill="#5c6bc0"/>
+  <text x="50" y="42" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">Personas</text>
+  
+  <rect x="15" y="75" width="70" height="25" rx="4" fill="#8d6e63"/>
+  <text x="50" y="92" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">Gramos</text>
+  
+  <!-- Left Fraction -->
+  <text x="120" y="48" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">6</text>
+  <line x1="95" y1="60" x2="145" y2="60" stroke="#333" stroke-width="3"/>
+  <text x="120" y="95" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">450</text>
+  
+  <!-- Equal sign -->
+  <text x="175" y="72" font-family="sans-serif" font-size="32" font-weight="bold" fill="#333" text-anchor="middle">=</text>
+  
+  <!-- Right Fraction -->
+  <text x="230" y="48" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">10</text>
+  <line x1="205" y1="60" x2="255" y2="60" stroke="#333" stroke-width="3"/>
+  <text x="230" y="95" font-family="sans-serif" font-size="28" font-style="italic" font-weight="bold" fill="#d32f2f" text-anchor="middle">x</text>
+  
+  <!-- Cross arrows -->
+  <path d="M135,45 L215,85" stroke="#9c27b0" stroke-width="2" stroke-linecap="round" stroke-dasharray="4" marker-end="url(#arrowRiceCross)"/>
+  <path d="M135,85 L215,45" stroke="#009688" stroke-width="2" stroke-linecap="round" stroke-dasharray="4" marker-end="url(#arrowRiceCross2)"/>
+  
+  <text x="280" y="72" font-family="sans-serif" font-size="24" font-weight="bold" fill="#e65100" text-anchor="middle">?</text>
+  
+  <defs>
+    <marker id="arrowRiceCross" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#9c27b0"/>
+    </marker>
+    <marker id="arrowRiceCross2" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#009688"/>
+    </marker>
+  </defs>
+</svg>

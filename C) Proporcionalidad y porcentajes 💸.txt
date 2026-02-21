@@ -1,0 +1,308 @@
+C) Proporcionalidad y porcentajes 💸
+
+---
+
+9) Razones y proporciones: continuar cantidades, razones equivalentes.
+
+41) En una receta se usan \(2\) tazas de harina por \(3\) tazas de leche. ¿Cuál es la razón harina:leche?
+a) \(\frac{3}{2}\)
+b) \(\frac{2}{3}\)
+c) \(\frac{5}{3}\)
+d) \(\frac{2}{5}\)
+e) \(\frac{3}{5}\)
+Tip 💡: La razón harina:leche se escribe en el orden que te piden: primero harina, luego leche. Coloca esos valores como \(\frac{\text{harina}}{\text{leche}}\). 🧾
+
+42) ¿Cuál razón es equivalente a \(\frac{4}{7}\)?
+a) \(\frac{8}{21}\)
+b) \(\frac{12}{14}\)
+c) \(\frac{16}{28}\)
+d) \(\frac{7}{4}\)
+e) \(\frac{4}{28}\)
+Tip 💡: Para que sea equivalente, multiplica numerador y denominador por el mismo número. Si solo cambias uno, ya no vale. 🔍
+
+43) En un grupo hay \(15\) mujeres y \(10\) hombres. ¿Cuál es la razón mujeres:hombres simplificada?
+a) \(\frac{3}{2}\)
+b) \(\frac{2}{3}\)
+c) \(\frac{5}{2}\)
+d) \(\frac{25}{10}\)
+e) \(\frac{3}{5}\)
+Tip 💡: Escribe la razón como fracción en el orden pedido y luego simplifica dividiendo entre el MCD de ambos números. ✅
+
+44) Si \(\frac{x}{12}=\frac{3}{4}\), ¿cuál es el valor de \(x\)?
+a) \(6\)
+b) \(8\)
+c) \(9\)
+d) \(10\)
+e) \(16\)
+Tip 💡: Usa producto cruzado: si \(\frac{x}{12}=\frac{3}{4}\), entonces \(4x=12\cdot 3\). Despeja \(x\) con calma. 🧠
+
+45) Una mezcla tiene razón azúcar:agua de \(\frac{5}{8}\). Si se usan \(40\) litros de agua, ¿cuántos litros de azúcar se necesitan para mantener la misma razón?
+a) \(20\)
+b) \(24\)
+c) \(25\)
+d) \(32\)
+e) \(64\)
+Tip 💡: La razón \(\frac{5}{8}\) significa “por cada \(8\) de agua hay \(5\) de azúcar”. Si el agua cambia, escala en la misma proporción: piensa en factor de multiplicación. 🔁
+
+---
+
+10) Regla de tres directa: costo–cantidad, distancia–tiempo, producción, etc.
+
+46) Si \(3\) cuadernos cuestan \(45\) pesos, ¿cuánto cuestan \(5\) cuadernos?
+a) \(60\)
+b) \(65\)
+c) \(70\)
+d) \(75\)
+e) \(90\)
+Tip 💡: Es proporcional directa: a más cuadernos, más costo. Puedes sacar el costo por cuaderno y luego multiplicar, o hacer la proporción \(\frac{3}{45}=\frac{5}{x}\). 🧾
+
+47) Un auto recorre \(120\) km en \(3\) horas. A la misma velocidad, ¿cuántos km recorre en \(5\) horas?
+a) \(180\)
+b) \(190\)
+c) \(200\)
+d) \(210\)
+e) \(240\)
+Tip 💡: Primero encuentra cuántos km recorre en 1 hora: divide \(120\) entre \(3\). Luego multiplica por \(5\). Verifica que el resultado sea mayor que \(120\). 👀
+
+48) Para preparar pintura se mezclan \(2\) litros de colorante por \(7\) litros de base. Si se tienen \(28\) litros de base, ¿cuántos litros de colorante se necesitan?
+a) \(4\)
+b) \(6\)
+c) \(8\)
+d) \(10\)
+e) \(14\)
+Tip 💡: Conserva la proporción: \(\frac{2}{7}=\frac{x}{28}\). Producto cruzado y despeje. Revisa que \(x\) sea menor que \(28\), porque el colorante es la parte pequeña. ✅
+
+49) Una máquina produce \(36\) piezas en \(4\) horas. ¿Cuántas piezas produce en \(7\) horas, al mismo ritmo?
+a) \(54\)
+b) \(60\)
+c) \(63\)
+d) \(72\)
+e) \(84\)
+Tip 💡: Es directo: piezas y tiempo crecen juntos. Calcula piezas por hora: \(\frac{36}{4}\). Luego multiplica por \(7\). 🧠
+
+50) Una receta para \(6\) personas usa \(450\) g de arroz. ¿Cuántos gramos se requieren para \(10\) personas?
+a) \(600\)
+b) \(650\)
+c) \(700\)
+d) \(750\)
+e) \(900\)
+Tip 💡: Mantén la proporción personas–gramos: \(\frac{6}{450}=\frac{10}{x}\). Despeja \(x\) y revisa que sea mayor que \(450\), porque son más personas. 🔁
+
+---
+
+11) Regla de tres inversa: más trabajadores–menos tiempo, etc.
+
+51) Se necesitan \(6\) trabajadores para terminar una obra en \(15\) días. Si ahora trabajan \(10\) trabajadores al mismo ritmo, ¿cuántos días tardarán en terminar la misma obra?
+a) \(6\)
+b) \(8\)
+c) \(9\)
+d) \(10\)
+e) \(15\)
+Tip 💡: En proporcionalidad inversa, el producto se conserva: \((\text{trabajadores})(\text{días})\) es constante si el trabajo es el mismo. Multiplica y luego divide. 🔁
+
+52) \(4\) llaves llenan un tinaco en \(18\) horas. Si se abren \(6\) llaves iguales, ¿en cuántas horas se llena el tinaco?
+a) \(9\)
+b) \(10\)
+c) \(12\)
+d) \(15\)
+e) \(24\)
+Tip 💡: Más llaves significa menos tiempo. Usa \((\text{llaves})(\text{tiempo})=\text{constante}\) y despeja el tiempo nuevo. ✅
+
+53) \(3\) impresoras tardan \(6\) horas en imprimir un pedido. Si se usan \(5\) impresoras del mismo tipo y al mismo ritmo, ¿cuánto tiempo tardan en imprimir el mismo pedido?
+a) \(3\) h \(30\) min
+b) \(3\) h \(36\) min
+c) \(4\) h
+d) \(4\) h \(12\) min
+e) \(5\) h
+Tip 💡: Mantén constante \((\text{impresoras})(\text{horas})\). Después, si te queda un decimal de hora, conviértelo a minutos multiplicando por \(60\). ⏱️
+
+54) \(8\) trabajadores terminan una obra en \(9\) días trabajando \(8\) horas diarias. ¿Cuántos días tardan \(12\) trabajadores si ahora trabajan \(6\) horas diarias (mismo ritmo)?
+a) \(5\)
+b) \(6\)
+c) \(7\)
+d) \(8\)
+e) \(9\)
+Tip 💡: Aquí la “cantidad de trabajo” depende de trabajadores y horas por día. Calcula el total de horas-hombre: \((\text{trabajadores})(\text{días})(\text{horas})\) y conserva ese total. 🧠
+
+55) \(15\) albañiles pueden terminar una obra en \(12\) días. Trabajan \(4\) días y luego se van \(5\) albañiles. Si los demás continúan al mismo ritmo, ¿cuántos días tardarán en total en terminar la obra?
+a) \(14\)
+b) \(15\)
+c) \(16\)
+d) \(18\)
+e) \(20\)
+Tip 💡: Calcula el “trabajo total” en jornales: \((\text{albañiles})(\text{días})\). Resta lo que ya avanzaron en los primeros \(4\) días y divide el trabajo restante entre los albañiles que quedan. 🔎✅
+
+---
+
+56) Una chamarra cuesta $250. En una oferta le aplican un descuento del 20%. ¿Cuál es el precio final?
+a) $50
+b) $200
+c) $225
+d) $230
+e) $270
+Tip 💡: Calcula primero cuánto es el 20% de $250 con \(0.20\times 250\) y después réstalo al precio original. Revisa que el resultado sea menor que $250.
+
+57) En una tienda, un artículo cuesta $80 y sube 15% por ajuste de precio. ¿Cuál es el nuevo precio?
+a) $92
+b) $95
+c) $68
+d) $80.15
+e) $84
+Tip 💡: Un aumento de 15% significa sumar \(0.15\) del precio original: \(80 + 0.15(80)\). También puedes usar el factor \(1.15\).
+
+58) Una consola tiene precio antes de IVA de $1,250. Si el IVA es del 16%, ¿cuánto se paga en total?
+a) $1,266
+b) $1,450
+c) $1,500
+d) $1,350
+e) $1,200
+Tip 💡: Convierte 16% a decimal \(0.16\). El total con IVA es \(1250 + 0.16(1250)\) o \(1250(1.16)\). Checa que el total sea mayor que $1,250.
+
+59) Un celular cuesta $1,000. Primero le aplican 30% de descuento y después, sobre el nuevo precio, le aplican 10% adicional. ¿Cuál es el precio final?
+a) $600
+b) $630
+c) $650
+d) $700
+e) $730
+Tip 💡: Ojo: el segundo descuento no es sobre $1,000, sino sobre el precio ya rebajado. Usa factores: después de 30% queda \(0.70\) del precio; después de 10% queda \(0.90\) de lo que tengas. Multiplica \(1000(0.70)(0.90)\).
+
+60) Un artículo tuvo un aumento del 20% y luego un descuento del 25% sobre el nuevo precio. Al final quedó en $540. ¿Cuál era el precio original?
+a) $432
+b) $600
+c) $675
+d) $720
+e) $800
+Tip 💡: Convierte cada cambio a factor: aumento 20% es \(1.20\); descuento 25% es \(0.75\). El precio final es \(P(1.20)(0.75)\). Igualalo a 540 y despeja \(P\) dividiendo entre el producto de factores.
+
+---
+
+61) Un paquete de 12 botellas de agua cuesta $90. ¿Cuál es el costo por botella?
+a) $6.50
+b) $7.00
+c) $7.50
+d) $8.50
+e) $10.80
+Tip 💡: Calcula el costo unitario dividiendo el total entre la cantidad: \( \frac{90}{12} \). No multipliques, aquí te piden “por una”. 🧠
+
+62) Un ciclista recorre \(150\ \text{km}\) en \(3\ \text{h}\). ¿Cuál fue su rapidez promedio?
+a) \(45\ \text{km/h}\)
+b) \(50\ \text{km/h}\)
+c) \(55\ \text{km/h}\)
+d) \(60\ \text{km/h}\)
+e) \(150\ \text{km/h}\)
+Tip 💡: La rapidez promedio se obtiene con \( \text{rapidez}=\frac{\text{distancia}}{\text{tiempo}} \). Revisa que las unidades queden en \(\text{km/h}\). ✅
+
+63) Un automóvil consume \(0.3\ \text{L}\) de gasolina por cada \(4\ \text{km}\). ¿Cuántos litros consumirá en \(100\ \text{km}\) si mantiene el mismo consumo?
+a) \(5.0\ \text{L}\)
+b) \(6.0\ \text{L}\)
+c) \(7.5\ \text{L}\)
+d) \(8.0\ \text{L}\)
+e) \(12.0\ \text{L}\)
+Tip 💡: Primero encuentra el consumo por \(1\ \text{km}\): \( \frac{0.3}{4} \). Luego multiplícalo por \(100\). Hazlo en dos pasos para no perderte. 🔁
+
+64) Un mensajero recorre \(120\ \text{km}\) en \(2\ \text{h}\) y después \(60\ \text{km}\) en \(1.5\ \text{h}\). ¿Cuál fue su rapidez promedio en todo el recorrido?
+a) \(48\ \text{km/h}\)
+b) \(50\ \text{km/h}\)
+c) \(51.43\ \text{km/h}\)
+d) \(54\ \text{km/h}\)
+e) \(60\ \text{km/h}\)
+Tip 💡: En rapidez promedio total NO promedies las dos velocidades. Usa: 
+\[
+\text{rapidez promedio}=\frac{\text{distancia total}}{\text{tiempo total}}
+\]
+Suma primero distancias y tiempos. 🧩
+
+65) En una gasolinera A el litro cuesta $23.90. En una gasolinera B el litro cuesta $22.70, pero cobran una cuota fija de $15 por servicio. ¿A partir de cuántos litros conviene pagar en B?
+a) \(10\ \text{L}\)
+b) \(12\ \text{L}\)
+c) \(13\ \text{L}\)
+d) \(15\ \text{L}\)
+e) \(20\ \text{L}\)
+Tip 💡: Compara los costos con una desigualdad:
+\[
+22.70L+15 < 23.90L
+\]
+Resuelve para \(L\) y al final piensa que \(L\) representa litros, normalmente se toma un número entero de litros. 🧠✅
+
+---
+---
+
+Sección de respuestas:
+
+[ANTIGRAVITY | ANSWER_KEY]
+- Reactivo 41:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 42:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 43:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 44:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 45:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 46:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 47:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 48:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 49:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 50:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 51:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 52:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 53:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 54:
+  - Correcta: d
+  - Incorrectas: a, b, c, e
+- Reactivo 55:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 56:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 57:
+  - Correcta: a
+  - Incorrectas: b, c, d, e
+- Reactivo 58:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 59:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 60:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 61:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 62:
+  - Correcta: b
+  - Incorrectas: a, c, d, e
+- Reactivo 63:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 64:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+- Reactivo 65:
+  - Correcta: c
+  - Incorrectas: a, b, d, e
+[/ANTIGRAVITY | ANSWER_KEY]
